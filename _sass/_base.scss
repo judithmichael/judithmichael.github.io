@@ -517,3 +517,12 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
+// Carousel
+.carousel-inner {
+  height: 400px;
+}
+
+.carousel-indicators li {
+  background-color: $black-color;
+}

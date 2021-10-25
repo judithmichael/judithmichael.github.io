@@ -28,76 +28,51 @@ Lead users are involved actively in the development process to be able to provid
 
 #### Impressions
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Dashboard.png' | relative_url }}" alt="" title="Dashboard"/>
+<div id="carouselExampleIndicators" class="carousel carousel-dark slide" data-interval="false" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ '/assets/img/Dashboard.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="" title="Dashboard" >
     </div>
-</div>
-<div class="caption">
-    Dashboard
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Finanzdashboard.png' | relative_url }}" alt="" title="Dashboard Finances"/>
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/Finanzdashboard.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="" title="Dashboard Finances" >
     </div>
-</div>
-<div class="caption">
-    Dashboard Finances
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Finanzuebersicht.png' | relative_url }}" alt="" title="Overview Finances"/>
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/Finanzuebersicht.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="" title="Overview Finances">
     </div>
-</div>
-<div class="caption">
-    Overview Finances
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Konto-Details.png' | relative_url }}" alt="" title="Account Details"/>
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/Konto-Details.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="" title="Account Details">
     </div>
-</div>
-<div class="caption">
-    Account Details
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Buchungen_zu_Konto.png' | relative_url }}" alt="" title="Bookings"/>
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/Buchungen_zu_Konto.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="" title="Bookings">
     </div>
-</div>
-<div class="caption">
-    Bookings
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Stellenzuweisungen.png' | relative_url }}" alt="" title="Job Assignment"/>
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/Stellenzuweisungen.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="" title="Job Assignment">
     </div>
-</div>
-<div class="caption">
-    Job Assignment
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Personal_Dashboard.png' | relative_url }}" alt="" title="Employees Dashboard"/>
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/Personal_Dashboard.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="..." title="Employees Dashboard">
     </div>
-</div>
-<div class="caption">
-    Employees Dashboard
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Planstellen.png' | relative_url }}" alt="" title="Permanent Positions"/>
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/Planstellen.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="..." title="Permanent Positions">
     </div>
-</div>
-<div class="caption">
-    Permanent Positions
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 
