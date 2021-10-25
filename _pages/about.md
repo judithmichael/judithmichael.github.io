@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#">Affiliations</a>
+description: 
 order: 1
 
 profile:
