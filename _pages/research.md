@@ -118,6 +118,9 @@ pages 1-10, August, 2020, Association for Information Systems (AIS).
 
 
 ### Modeling Law
+Domain-specific languages can be used to formulate law and contracts. 
+This allows to verify plans according to contracts [DHH+20](http://www.se-rwth.de/publications/Modellierung-Verifikation-und-Synthese-von-validen-Planungszustaenden-fuer-Fernsehausstrahlungen.pdf)
+and to generate related IT systems from law [RMK+21](http://www.se-rwth.de/publications/Digitalisierung-der-Gesetzgebung-zur-Steigerung-der-digitalen-Souveraenitaet-des-Staates.pdf).
 
 
 #### Selected Publications
