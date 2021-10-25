@@ -23,21 +23,17 @@ on an adequate level of granularity.
 
 #### Selected Publications:
 
+\[MW21] J. Michael, and A. Wortmann.
+[Towards Development Platforms for Digital Twins: A Model-Driven Low-Code Approach.](http://www.se-rwth.de/publications/Towards-Development-Platforms-for-Digital-Twins-A-Model-Driven-Low-Code-Approach)
+In: Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems,
+pages 333-341, September, 2021, Springer International Publishing.
+
 \[DJM+19] M. Dalibor, N. Jansen, J. Michael, B. Rumpe, A. Wortmann:
 [Towards Sustainable Systems Engineering – Integrating Tools via Component and Connector Architectures](https://www.se-rwth.de/publications/Towards-Sustainable-Systems-Engineering-Integrating-Tools-via-Component-and-Connector-Architectures.pdf)
 In: G. Jacobs, J. Marheineke, editors, Antriebstechnisches Kolloquium 2019: Tagungsband zur Konferenz, pp. 121-133, Feb. 2019.
 
-\[DJR+19] M. Dalibor, N. Jansen, B. Rumpe, L. Wachtmeister, A. Wortmann:
-[Model-Driven Systems Engineering for Virtual Product Design](https://www.se-rwth.de/publications/Model-Driven-Systems-Engineering-for-Virtual-Product-Design.pdf)
-In: L. Burgueño, A. Pretschner, S. Voss, M. Chaudron, J. Kienzle, M. Völter, S. Gérard, M. Zahedi, E. Bousse, A. Rensink, F. Polack, G. Engels, G.Kappel, editors, Proceedings of MODELS 2019. Workshop MPM4CPS, Munich, pp. 430-435, IEEE, Sep. 2019.
 
-\[SHH+20] G. Schuh, C. Häfner, C. Hopmann, B. Rumpe, M. Brockmann, A. Wortmann, J. Maibaum, M. Dalibor, P. Bibow, P. Sapel, M. Kröger:
-[Effizientere Produktion mit Digitalen Schatten](https://www.se-rwth.de/publications/Effizientere-Produktion-mit-Digitalen-Schatten.pdf)
-In: W. Bauer, W. Volk, M. Zäh, editors, ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb 115(special), pp. 105-107, Carl Hanser Verlag, Munich, April 2020.
 
-\[BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann:
-[Model-Driven Development of a Digital Twin for Injection Molding](https://www.se-rwth.de/publications/Model-Driven-Development-of-a-Digital-Twin-for-Injection-Molding.pdf)
-In: S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
