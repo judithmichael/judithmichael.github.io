@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 description: 
 nav: true
-display_categories: [RWTH, AAU]
 horizontal: false
 order: 2
 ---

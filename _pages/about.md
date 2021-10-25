@@ -10,12 +10,10 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Software Engineering</p>
-    <p>Department of Computer Science 3</p>
     <p>RWTH Aachen University</p>
     <p>Ahornstraße 55</p>
     <p>D-52074 Aachen</p>
     <p>tel. +49 (241) 80-21323</p>
-    <p>fax. +49 (241) 80-22218</p>
     <p>michaelatse@rwth.de</p>
     <p>room 4305</p>
 

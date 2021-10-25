@@ -5,7 +5,6 @@ description: "Interaktive, visuelle Datenräume zur souveränen, datenschutzrech
 img: /assets/img/7.jpg
 redirect: https://invidas.gi.de/
 importance: 2
-category: RWTH
 ---
 
 Every project has a beautiful feature showcase page.

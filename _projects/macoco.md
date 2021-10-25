@@ -4,7 +4,6 @@ title: MaCoCo (Management Cockpit for Controlling)
 description: "A multi-user web-application for the decentralized management and controlling of organizational processes within the chairs or institutes of RWTH Aachen university (Founder: RWTH Aachen university)"
 img: /assets/img/12.jpg
 importance: 1
-category: RWTH
 ---
 
 **A research project of RWTH Aachen University realized by the Controlling Group and Software Engineering Group**

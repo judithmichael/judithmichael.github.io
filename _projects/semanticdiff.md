@@ -4,7 +4,6 @@ title: SemanticDiff
 description: "A Semantic Approach to Evolution Analysis in Model-Based Software Development (Founder: DFG)"
 img: /assets/img/4.jpg
 importance: 4
-category: RWTH
 ---
 
 The semantic difference from one model to another model contains the elements in the semantics of the former model that are no elements in the semantics of the latter model. Revealing the semantic differences from one model version to a successor model version facilitates to understand the semantic impact of the syntactic changes that have been applied to the original model version to obtain the successor model version. In this project, we develop
