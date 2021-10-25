@@ -6,15 +6,25 @@ img: /assets/img/12.jpg
 importance: 1
 ---
 
-**A research project of RWTH Aachen University realized by the Controlling Group and Software Engineering Group**
 
-Within the **MaCoCo (Management Cockpit for Controlling) project** we realize a multi-user web-application for the decentralized management and controlling of organizational processes within the chairs or institutes of a university. The project was startet in 2016. The key elements of the project focus on finance, staff and project organization.
 
-In the development of web-applications the frontend and backend are implemented separately and often use different programming languages. Developers of both parts have to communicate intensively and have to adjust their implementation to the corresponding other side. Consequently, this increases the risk for communication overhead and inconsistencies.
+Within the **MaCoCo (Management Cockpit for Controlling) project** we realize a multi-user web-application for the 
+decentralized management and controlling of organizational processes within the chairs or institutes of a university. 
+The project was startet in 2016. The key elements of the project focus on finance, staff and project organization.
+The MaCoCo project is funded by the RWTH Aachen University and jointly realized by the chairs of Controlling 
+and Software Engineering.
 
-Thus, large parts of the code of MaCoCo is generated with the [MontiCore (MC) language workbenchand code generation framework](http://monticore.de/) to ensure a highly adaptable system. Lead users are involved actively in the development process to be able to provide a useful solution.
 
-The MaCoCo project is funded by the RWTH Aachen University and jointly realized by the chairs of Controlling and Software Engineering.
+In the development of web-applications the frontend and backend are implemented separately and 
+often use different programming languages. Developers of both parts have to communicate intensively 
+and have to adjust their implementation to the corresponding other side. 
+Consequently, this increases the risk for communication overhead and inconsistencies.
+
+Thus, large parts of the code of MaCoCo is generated with the
+[MontiCore (MC) language workbenchand code generation framework](http://monticore.de/) 
+to ensure a highly adaptable system. 
+Lead users are involved actively in the development process to be able to provide a useful solution.
+
 
 #### Impressions
 
@@ -90,37 +100,6 @@ The MaCoCo project is funded by the RWTH Aachen University and jointly realized 
     Permanent Positions
 </div>
 
-#### -- Only reachable from RWTH network --
-
-The [user manual](https://macoco.rwth-aachen.de/w/index.php/) provides detailed information about MaCoCo functionalities and our [online test version](https://macoco.rwth-aachen.de/w/index.php/Testversion).
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MaCoCo_WordArt.png' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <h4>MaCoCo in a nutshell:</h4>
-        <ul>
-            <li>Enterprise Information System</li>
-            <li>Agile, Model-Driven Software Engineering</li>
-            <li>Code Generators</li>
-            <li>Creation and use of domain-specific languages (DSLs)</li>
-            <li>User centered development process</li>
-            <li>Web Application</li>
-            <li>Angular Frontend (Typescript/HTML)</li>
-            <li>Java Backend</li>
-        </ul>
-    </div>
-</div>
-
-#### Related Research Topics:
-- Agile Model Based Software Engineering
-- Domain Specific Languages (DSLs)
-- Generative Software Engineering
-- Model-Based Generation of Enterprise Information Systems
-- Software Language Engineering (SLE)
-- UML/P
-- Unified Modeling Language (UML)
 
 #### Publications:
 \[GHK+20] A. Gerasimov, P. Heuser, H. Ketteniß, P. Letmathe, J. Michael, L. Netz, B. Rumpe, S. Varga:

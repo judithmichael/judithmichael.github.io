@@ -1,78 +1,33 @@
 ---
 layout: page
 title: InviDas
-description: "Interaktive, visuelle Datenräume zur souveränen, datenschutzrechtlichen Entscheidungsfindung. The aim of InviDas is to provide future and current users of smart wearables, such as fitness watches, better insight into their data profiles and help them to make informed decisions about sharing personal data more easily. (Founder: BMBF)"
+description: 
 img: /assets/img/7.jpg
-redirect: https://invidas.gi.de/
+redirect: 
 importance: 2
 ---
+"Interaktive, visuelle Datenräume zur souveränen, datenschutzrechtlichen Entscheidungsfindung"
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+[Project Website](https://invidas.gi.de/)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Many people are increasingly surrounded by digital technologies and applications that collect, 
+process and share personal data. At the same time, few read and understand the often long and complicated 
+privacy statements of their individual devices and applications. 
+Within the InviDas project, we ensure that users of smart wearables, such as fitness watches, 
+will in future have better insight into their data profiles and will thus be able to make 
+informed decisions more easily. 
+New forms of data visualization and gamification are being researched, with which both manufacturers and users can 
+make data privacy declarations more comprehensible and transparent.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project is funded by the BMBF.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The InviDas project is jointly realized by the Gesellschaft für Informatik e.V., Stiftung Digitale Chancen, 
+Garmin Würzburg GmbH, RWTH Aachen University (Software Engineering, Chair and Institute of Industrial Engineering 
+and Ergonomics and Applied Ethics), Universität Bremen and Otto-Friedrich Universität Bamberg. 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+#### Publications:
+\[BCC+22] Butting, A., Conradie, N., Croll, J., Fehler, M., Gruber, C., Herrmann, D., Mertens, A., Michael, J., 
+Nitsch, V., Nagel, S., Pütz, S., Rumpe, B., Schauermann, E., Schöning, J., Stellmacher, C., Theis, S.: 
+Souveräne digitalrechtliche Entscheidungsfindung hinsichtlich der Datenpreisgabe bei der Nutzung von Wearables. 
+In: Selbstbestimmung und Privatheit. Forum Privatheit 2020, DUD Fachbeiträge, Springer, 2022.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```

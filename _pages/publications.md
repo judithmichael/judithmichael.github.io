@@ -8,7 +8,13 @@ nav: true
 order: 3
 ---
 
-My recent publications are focussing on (conceptual) modeling (domain specific modeling languages, context modeling, privacy meta-modeling, model-based generation of enterprise information systems) especially in the active assistance, controlling, IoP and IoT domains. Please see further publications in my [Google scholar](https://scholar.google.com/citations?user=9f-nXdcAAAAJ&hl=de) or [Researchgate](https://www.researchgate.net/profile/Judith_Michael) profile. For more publications of the Software Engineering group, please have a look at the prepared [curated lists](http://www.se-rwth.de/topics/).
+My recent publications are focussing on (conceptual) modeling (domain specific modeling languages, context modeling, 
+privacy meta-modeling, model-based generation of enterprise information systems) especially in the active assistance, 
+controlling, IoP and IoT domains. Please see further publications in my 
+[Google scholar](https://scholar.google.com/citations?user=9f-nXdcAAAAJ&hl=de) or 
+[Researchgate](https://www.researchgate.net/profile/Judith_Michael) profile. 
+For more publications of the Software Engineering group, please have a look at the prepared 
+[curated lists](http://www.se-rwth.de/topics/).
 
 <div class="publications">
 
@@ -19,4 +25,5 @@ My recent publications are focussing on (conceptual) modeling (domain specific m
 
 </div>
 
-My PhD thesis in the Application Engineering group (Prof. Heinrich C. Mayr) at AAU, Austria, was about [cognitive modelling for assistive systems](http://netlibrary.aau.at/obvuklhs/content/titleinfo/2410412).
+My PhD thesis in the Application Engineering group (Prof. Heinrich C. Mayr) at AAU, Austria, was about 
+[cognitive modelling for assistive systems](http://netlibrary.aau.at/obvuklhs/content/titleinfo/2410412).
