@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SemanticDiff 
-description: "A Semantic Approach to Evolution Analysis in Model-Based Software Development (Founder: DFG)"
+description: 
 img: /assets/img/4.jpg
 importance: 4
 ---

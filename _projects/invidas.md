@@ -6,9 +6,9 @@ img: /assets/img/7.jpg
 redirect: 
 importance: 2
 ---
-"Interaktive, visuelle Datenräume zur souveränen, datenschutzrechtlichen Entscheidungsfindung"
+##Interaktive, visuelle Datenräume zur souveränen, datenschutzrechtlichen Entscheidungsfindung (InviDas)
 
-[Project Website](https://invidas.gi.de/)
+
 
 Many people are increasingly surrounded by digital technologies and applications that collect, 
 process and share personal data. At the same time, few read and understand the often long and complicated 
@@ -24,6 +24,8 @@ The project is funded by the BMBF.
 The InviDas project is jointly realized by the Gesellschaft für Informatik e.V., Stiftung Digitale Chancen, 
 Garmin Würzburg GmbH, RWTH Aachen University (Software Engineering, Chair and Institute of Industrial Engineering 
 and Ergonomics and Applied Ethics), Universität Bremen and Otto-Friedrich Universität Bamberg. 
+
+[Project Website](https://invidas.gi.de/)
 
 #### Publications:
 \[BCC+22] Butting, A., Conradie, N., Croll, J., Fehler, M., Gruber, C., Herrmann, D., Mertens, A., Michael, J., 
