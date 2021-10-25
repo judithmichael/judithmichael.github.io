@@ -23,12 +23,12 @@ on an adequate level of granularity.
 
 #### Selected Publications:
 
-\[MW21] J. Michael, and A. Wortmann.
+- [MW21] J. Michael, and A. Wortmann.
 [Towards Development Platforms for Digital Twins: A Model-Driven Low-Code Approach.](http://www.se-rwth.de/publications/Towards-Development-Platforms-for-Digital-Twins-A-Model-Driven-Low-Code-Approach)
 In: Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems,
 pages 333-341, September, 2021, Springer International Publishing.
 
-\[DJM+19] M. Dalibor, N. Jansen, J. Michael, B. Rumpe, A. Wortmann:
+- [DJM+19] M. Dalibor, N. Jansen, J. Michael, B. Rumpe, A. Wortmann:
 [Towards Sustainable Systems Engineering – Integrating Tools via Component and Connector Architectures](https://www.se-rwth.de/publications/Towards-Sustainable-Systems-Engineering-Integrating-Tools-via-Component-and-Connector-Architectures.pdf)
 In: G. Jacobs, J. Marheineke, editors, Antriebstechnisches Kolloquium 2019: Tagungsband zur Konferenz, pp. 121-133, Feb. 2019.
 

@@ -9,14 +9,14 @@ order: 5
 
 For me, research and teaching are closely linked. 
 Teaching becomes more exciting when you can bring examples from practice and current research results, 
-and in research, we benefit from the new ideas that students contribute.  
-Thus, I try to foster the interest of students
+and in research, we benefit from the new ideas that students contribute. Thus, I try to foster the interest of students
 in research topics such as modeling, generative methods, system architectures or assistive systems
 and involve them in research in an early stage in seminars, lectures, projects and theses.
 
 ## Lectures
 
 #### Softwaretechnik
+
 - [Winter 20/21](https://www.se-rwth.de/teaching/ws2021/swt/)
 - [Winter 19/20](https://www.se-rwth.de/teaching/ws1920/swt/)
 
