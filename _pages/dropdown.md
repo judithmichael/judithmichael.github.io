@@ -1,12 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Other Activities 
 nav: true
 dropdown: true
+order: 6
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Academic Service
+      permalink: /academic_service/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: German Informatics Society
+      permalink: /german_informatics_society/
 ---

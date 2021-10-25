@@ -1,11 +1,12 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
-display_categories: [work, fun]
+display_categories: [RWTH, AAU]
 horizontal: false
+order: 2
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
