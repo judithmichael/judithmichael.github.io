@@ -101,7 +101,7 @@ Chapter in Information Systems Engineering in Responsible Information Systems, S
 ISBN 978-3-030-21296-4, LNBIP 350, pages 194-206, 2019.
 
 ### Model-Based Software Engineering of Information Systems
-
+Using a small set of models, it is possible to generate large parts of information systems. 
 
 #### Selected Publications
 
@@ -118,7 +118,7 @@ pages 1-10, August, 2020, Association for Information Systems (AIS).
 
 
 ### Modeling Law
-Domain-specific languages can be used to formulate law and contracts. 
+Domain-specific languages provide means to formulate law and contracts. 
 This allows to verify plans according to contracts [DHH+20](http://www.se-rwth.de/publications/Modellierung-Verifikation-und-Synthese-von-validen-Planungszustaenden-fuer-Fernsehausstrahlungen.pdf)
 and to generate related IT systems from law [RMK+21](http://www.se-rwth.de/publications/Digitalisierung-der-Gesetzgebung-zur-Steigerung-der-digitalen-Souveraenitaet-des-Staates.pdf).
 

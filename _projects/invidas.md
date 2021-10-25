@@ -7,7 +7,7 @@ redirect:
 importance: 2
 ---
 
-###Interaktive, visuelle Datenräume zur souveränen, datenschutzrechtlichen Entscheidungsfindung (InviDas)
+### Interaktive, visuelle Datenräume zur souveränen, datenschutzrechtlichen Entscheidungsfindung (InviDas)
 
 
 Many people are increasingly surrounded by digital technologies and applications that collect, 
