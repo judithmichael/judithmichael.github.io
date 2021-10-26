@@ -11,7 +11,7 @@ knowledge. This idea has been transferred to the physical world with the concept
 A direct application of the IoT approach to production is currently not sufficiently feasible. 
 There are many more parameters but much less available data than other big data application domains. 
 Vast amounts of data characterize modern production. However, this data is neither easily accessible, interpretable, 
-nor connected to gain knowledge. With the [[Internet of Production (IoP)](https://www.rwth-aachen.de/go/id/bktz), 
+nor connected to gain knowledge. With the [Internet of Production (IoP)](https://www.rwth-aachen.de/go/id/bktz), 
 we have the vision to enable a new level of cross-domain collaboration by providing semantically adequate and 
 context-aware data from production, development, and usage in real-time on an appropriate level of granularity.
 The central scientific approach is the introduction of Digital Twins and Digital Shadows. 
