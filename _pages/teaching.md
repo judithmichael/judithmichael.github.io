@@ -15,31 +15,56 @@ and involve them in research in an early stage in seminars, lectures, projects a
 
 ## Lectures
 
-#### Softwaretechnik
+#### Software Engineering 
+This lecture introduces the foundations for the engineering of complex software systems. 
+Covered topics are development process models, requirements elicitation, software architecture and design as 
+well as the implementation, generation and quality assurance with tests. 
+The lecture uses primarily the modeling language UML.
 
 - [Winter 20/21](https://www.se-rwth.de/teaching/ws2021/swt/)
 - [Winter 19/20](https://www.se-rwth.de/teaching/ws1920/swt/)
 
 #### Digitalization
+The lecture "Digitalization" explores and discusses digitalisation from different perspectives of informatics: 
+We investigate fundamentals of the terms digitalization, digitization and digital transformation, 
+its classification in the discipline informatics, relation to IT-systems and software engineering methods as 
+well as strategies for digitalization. Discussions stimulate a critical examination of the terms. 
+Furthermore, lecturers from industry discuss current developments that are advancing the digitalization 
+of their economic sector and provide practical examples. This includes domains such as automotive, automation, health, 
+production or public Infrastructure. 
+
 - [Summer 19](http://www.se-rwth.de/teaching/ss19/digitalisation/)
 
 #### Assistive Systems
+Ambient Assistance denotes the ICT based contact free, autonomous and unobtrusive support of persons in a given life 
+situation or for mastering a particular task. Ambient Assistance Systems have to provide means for (a) recognizing a 
+given situation, (b) determining the resulting need of actions, and (c) inducing appropriately targeted measures or 
+rendering support information in a form adapted to the situation.
+The lecture for the Master Computer Science introduces into the methods and techniques that have been developed 
+for these purposes, sketches the 
+current state-of-the-art, and increases the understanding of the participants by project work.
 
-- Current Topics in Application Engineering: Ambient Assistance (Master Computer Science)
-- Current Topics in Application Engineering: Ambient Assisted Living (Master Computer Science)
+- Current Topics in Application Engineering: Ambient Assistance
+- Current Topics in Application Engineering: Ambient Assisted Living
 
-#### Business Information Systems
-Topics of this lecture in the Master Computer Science included e.g., behavior modeling with BPMN, 
-workflow systems, architectures,
-domain specific languages and language engineering (2014, 2017). 
+#### Current Topics in Business Information Systems
+In contrast to general purpose languages, domain-specific languages (DSLs) can be tailored for specific needs. 
+Topics of this lecture and project class (2014, 2017) in the Master Computer Science include, 
+e.g., how to engineer such languages, 
+behavior modeling with BPMN, workflow systems and system architectures which are able to handle DSLs . 
+Moreover, we have shown example languages from the ambient assistance domain and students created their own DSLs.
 
 #### Ringvorlesung: Frauen - Männer - Wirtschaft
-Within the lecture series women - man - business, I held one lecture about gender specifics in the engineering 
+The interdisciplinary lecture series (2012/13) deals with gender role-typical behavior and the relationships between and within 
+the genders in business. The aim was to raise awareness for gender-specific differences on the one hand, but also for 
+existing unobjective differentiation between the genders. 
+The focus was not only on women, but also on men with their changed role requirements. 
+Within this lecture series women - man - economy, my focus was on gender specifics in the engineering 
 and use of IT systems. 
 
-## Exercises and Project Classes
+## Exercises 
+Exercises accompany lectures within the Bachelor and Master program.
 
-#### Exercises 
 - Software Language Engineering, [Summer 18](https://www.se-rwth.de/teaching/ss18/sle/)
 - Datenbanken
 - Einführung in die Theoretische Informatik 

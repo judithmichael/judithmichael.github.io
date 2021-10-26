@@ -14,7 +14,6 @@ Manufacturing, Internet of Things (IoT), or Smart Homes.
 The models created with such languages can be used to develop information systems, 
 assistive systems and services and digital twins
 in an agile model-based way using generators for code synthesis.
-
 This website presents selected research topics and related publications.
 The full list of publications is available on the [publications](../publications) page.
 
@@ -76,11 +75,11 @@ pp. 333-341, IFIP WG 5.7 International Conference, APMS 2021, Nantes, France, Se
 Due to the General Data Protection Regulation (GDPR) organizations are obliged
 to consider privacy throughout the complete development process.
 In our work, we have created privacy preserving information systems and demonstrated it on an IoT manufacturing use
-case [MKM+19](https://www.se-rwth.de/publications/User-Centered-and-Privacy-Driven-Process-Mining-System-Design-for-IoT.pdf),
+case [[MKM+19]](https://www.se-rwth.de/publications/User-Centered-and-Privacy-Driven-Process-Mining-System-Design-for-IoT.pdf),
 we have created an approach for differential privacy for event logs 
-[MKB+19](https://www.se-rwth.de/publications/Privacy-Preserving-Process-Mining.pdf)
+[[MKB+19]](https://www.se-rwth.de/publications/Privacy-Preserving-Process-Mining.pdf)
 and we have shown how MDSE can be used to create privacy-preserving IoT systems
-[MNRV19](https://www.se-rwth.de/publications/Towards-Privacy-Preserving-IoT-Systems-Using-Model-Driven-Engineering.pdf).
+[[MNRV19]](https://www.se-rwth.de/publications/Towards-Privacy-Preserving-IoT-Systems-Using-Model-Driven-Engineering.pdf).
 
 #### Selected Publications
 
@@ -101,6 +100,8 @@ ISBN 978-3-030-21296-4, LNBIP 350, pages 194-206, 2019.
 
 ### Model-Based Software Engineering of Information Systems
 Using a small set of models, it is possible to generate large parts of information systems. 
+With MontiGem, the generator framework for information systems, we have created a tool to support such a process in an 
+agile, model-driven way. 
 
 #### Selected Publications
 
@@ -118,8 +119,8 @@ pages 1-10, August, 2020, Association for Information Systems (AIS).
 
 ### Modeling Law
 Domain-specific languages provide means to formulate law and contracts. 
-This allows to verify plans according to contracts [DHH+20](http://www.se-rwth.de/publications/Modellierung-Verifikation-und-Synthese-von-validen-Planungszustaenden-fuer-Fernsehausstrahlungen.pdf)
-and to generate related IT systems from law [RMK+21](http://www.se-rwth.de/publications/Digitalisierung-der-Gesetzgebung-zur-Steigerung-der-digitalen-Souveraenitaet-des-Staates.pdf).
+This allows to verify plans according to contracts [[DHH+20]](http://www.se-rwth.de/publications/Modellierung-Verifikation-und-Synthese-von-validen-Planungszustaenden-fuer-Fernsehausstrahlungen.pdf)
+and to generate related IT systems from law [[RMK+21]](http://www.se-rwth.de/publications/Digitalisierung-der-Gesetzgebung-zur-Steigerung-der-digitalen-Souveraenitaet-des-Staates.pdf).
 
 
 #### Selected Publications

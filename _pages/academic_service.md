@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-I am [SE 2022](https://www.se-2022.de/) and [Modellierung 2022](https://qfam.gi.de/modellierung2022) workshop co-chair, 
+Currently, I am [SE 2022](https://www.se-2022.de/) and [Modellierung 2022](https://qfam.gi.de/modellierung2022) workshop co-chair, 
 and [ER 2022](https://er2022web.github.io/ER2022/) publicity and social media co-chair. 
 
 Former duties:
