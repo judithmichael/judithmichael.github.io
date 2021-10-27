@@ -35,7 +35,6 @@ Lead users are involved actively in the development process to be able to provid
   [Model-Based Generation of Enterprise Information Systems.](https://www.se-rwth.de/publications/Model-Based-Generation-of-Enterprise-Information-Systems.pdf)
   In: Enterprise Modeling and Information Systems Architectures (EMISA'18), pg. 75-79, Rockstock, Germany, CEUR 2097, May 2018.
 
-
 #### Impressions
 
 <div id="carouselExampleIndicators" class="carousel carousel-dark slide" data-interval="false" data-ride="carousel">
