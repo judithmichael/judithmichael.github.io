@@ -11,7 +11,7 @@ The MontiGem framework allows developers to generate large parts of a web applic
 The generated parts include the database, the backend, the communication between application backend and the frontend
  and graphical user interfaces. 
 
-####Selected publications
+#### Selected publications
 
 - [GMNR21] A. Gerasimov, J. Michael, L. Netz, and B. Rumpe.
 [Agile Generator-Based GUI Modeling for Information Systems.](http://www.se-rwth.de/publications/Agile-Generator-Based-GUI-Modeling-for-Information-Systems.pdf)
@@ -26,6 +26,3 @@ pages 113-126, March, 2021, Springer.
     [Enterprise Information Systems in Academia and Practice: Lessons learned from a MBSE Project.](http://www.se-rwth.de/publications/Enterprise-Information-Systems-in-Academia-and-Practice-Lessons-learned-from-a-MBSE-Project.pdf)
     In: 40 Years EMISA: Digital Ecosystems of the Future: Methodology, Techniques and Applications (EMISA'19), LNI P-304, pages 59-66, May, 2020, Gesellschaft für Informatik e.V..
 
-- [GHK+20] A. Gerasimov, P. Heuser, H. Ketteniß, P. Letmathe, J. Michael, L. Netz, B. Rumpe, and S. Varga:
-    [Generated Enterprise Information Systems: MDSE for Maintainable Co-Development of Frontend and Backend.](http://www.se-rwth.de/publications/Generated-Enterprise-Information-Systems-MDSE-for-Maintainable-Co-Development-of-Frontend-and-Backend.pdf)
-    In: Judith Michael, Dominik Bork, editors, Companion Proceedings of Modellierung 2020 Short, Workshop and Tools & Demo Papers, pages 22-30, February, 2020, CEUR Workshop Proceedings.
