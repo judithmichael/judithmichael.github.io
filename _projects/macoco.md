@@ -26,6 +26,16 @@ to ensure a highly adaptable system.
 Lead users are involved actively in the development process to be able to provide a useful solution.
 
 
+#### Publications:
+- [GHK+20] A. Gerasimov, P. Heuser, H. Ketteniß, P. Letmathe, J. Michael, L. Netz, B. Rumpe, S. Varga:
+  [Generated Enterprise Information Systems: MDSE for Maintainable Co-Development of Frontend and Backend.](https://www.se-rwth.de/publications/Generated-Enterprise-Information-Systems-MDSE-for-Maintainable-Co-Development-of-Frontend-and-Backend.pdf)
+  In: J. Michael, D. Bork, editors, Companion Proceedings of Modellierung 2020, Vienna, pp. 22-30, CEUR Workshop Proceedings, Feb. 2020.
+
+- [ANV+18] K. Adam, L. Netz, S. Varga, J. Michael, B. Rumpe, P. Heuser, P. Letmathe:
+  [Model-Based Generation of Enterprise Information Systems.](https://www.se-rwth.de/publications/Model-Based-Generation-of-Enterprise-Information-Systems.pdf)
+  In: Enterprise Modeling and Information Systems Architectures (EMISA'18), pg. 75-79, Rockstock, Germany, CEUR 2097, May 2018.
+
+
 #### Impressions
 
 <div id="carouselExampleIndicators" class="carousel carousel-dark slide" data-interval="false" data-ride="carousel">
@@ -75,12 +85,3 @@ Lead users are involved actively in the development process to be able to provid
   </a>
 </div>
 
-
-#### Publications:
-- [GHK+20] A. Gerasimov, P. Heuser, H. Ketteniß, P. Letmathe, J. Michael, L. Netz, B. Rumpe, S. Varga:
-[Generated Enterprise Information Systems: MDSE for Maintainable Co-Development of Frontend and Backend.](https://www.se-rwth.de/publications/Generated-Enterprise-Information-Systems-MDSE-for-Maintainable-Co-Development-of-Frontend-and-Backend.pdf)
-In: J. Michael, D. Bork, editors, Companion Proceedings of Modellierung 2020, Vienna, pp. 22-30, CEUR Workshop Proceedings, Feb. 2020.
-
-- [ANV+18] K. Adam, L. Netz, S. Varga, J. Michael, B. Rumpe, P. Heuser, P. Letmathe:
-[Model-Based Generation of Enterprise Information Systems.](https://www.se-rwth.de/publications/Model-Based-Generation-of-Enterprise-Information-Systems.pdf)
-In: Enterprise Modeling and Information Systems Architectures (EMISA'18), pg. 75-79, Rockstock, Germany, CEUR 2097, May 2018.
