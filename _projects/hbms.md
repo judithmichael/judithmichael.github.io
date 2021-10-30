@@ -8,10 +8,14 @@ importance: 6
 At Alpen-Adria-Universität Klagenfurt, I have been a team member of the
 [Human Behavior Monitoring and Support (HBMS)](https://ae-ainf.aau.at/hbms/) 
 project, where we have developed an assistive system for human behavior support.
+Its focus was on unobtrusively supporting people in doing their activities of daily life 
+autonomously in their homes: from basic ADL like dressing, via instrumental ADL like meal preparation, 
+homework, laundry, using the phone and other technical devices, 
+up to managing finances and using online (business) processes.
+HBMS  “learns” via unobtrusive and secure activity recognition, abstraction, and integration 
+of the person’s individual episodical knowledge, i.e. how she/he is doing things. This individual knowledge can then be used as needed to compensate for gaps 
+in the episodic memory of the respective person. 
 The project was founded from 2011-2017 by the Klaus Tschira Stiftung gGmbH, Heidelberg. 
-
-See the video playlist for some insights and results. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0SyFKJu5CwtuEsVQrPLG6DmssYvlmoBu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Selected Publications:
 For more have a look on my [publications](../publications) page.
@@ -32,3 +36,8 @@ In: Proceedings of the Australasian Computer Science Week Multiconference (ACSW'
 - [SM20] C. Steinberger, J. Michael: [Using Semantic Markup to Boost Context Awareness for Assistive Systems.](https://www.se-rwth.de/publications/Using-Semantic-Markup-to-Boost-Context-Awareness-for-Assistive-Systems.pdf)
 In: F. Chen, R. I. García-Betances, L. Chen, M. F. Cabrera-Umpiérrez, C. Nugent, editors, 
 Smart Assisted Living: Toward An Open Smart-Home Infrastructure, pp. 227-246, Springer, 2020.
+
+#### Videos:
+
+See the video playlist for some insights and results.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0SyFKJu5CwtuEsVQrPLG6DmssYvlmoBu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ nor connected to gain knowledge. With the [Internet of Production (IoP)](https:/
 we have the vision to enable a new level of cross-domain collaboration by providing semantically adequate and 
 context-aware data from production, development, and usage in real-time on an appropriate level of granularity.
 The central scientific approach is the introduction of Digital Twins and Digital Shadows. 
-The Cluster of Excellence will design and implement a conceptual reference infrastructure for the 
+The Cluster of Excellence designs and implements a conceptual reference infrastructure for the 
 Internet of Production that enables the generation and application of Digital Shadows. 
 The vision of IoP is to enable a new level of cross-domain collaboration by providing semantically 
 adequate and context-aware data from production, development, and usage in real-time, 
@@ -27,6 +27,17 @@ on an adequate level of granularity.
 [Towards Development Platforms for Digital Twins: A Model-Driven Low-Code Approach.](http://www.se-rwth.de/publications/Towards-Development-Platforms-for-Digital-Twins-A-Model-Driven-Low-Code-Approach)
 In: Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems,
 pages 333-341, September, 2021, Springer International Publishing.
+
+- [BHK+21] T. Brockhoff, M. Heithoff, I. Koren, J. Michael, J. Pfeiffer, B. Rumpe, M.S. Uysal,
+  W. M. P. van der Aalst, A. Wortmann: Process Prediction with Digital Twins. Models@runtime’21 (MODELS’21)
+
+- [BBD+21] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger,
+  J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann:
+  A conceptual model for digital shadows in industry and its application. ER’21
+
+- [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann:
+  [Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits.](https://www.se-rwth.de/publications/Towards-a-Model-Driven-Architecture-for-Interactive-Digital-Twin-Cockpits.pdf)
+  In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Modeling, pp. 377-387, Springer, Oct. 2020.
 
 - [DJM+19] M. Dalibor, N. Jansen, J. Michael, B. Rumpe, A. Wortmann:
 [Towards Sustainable Systems Engineering – Integrating Tools via Component and Connector Architectures](https://www.se-rwth.de/publications/Towards-Sustainable-Systems-Engineering-Integrating-Tools-via-Component-and-Connector-Architectures.pdf)
