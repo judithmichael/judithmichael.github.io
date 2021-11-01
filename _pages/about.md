@@ -35,10 +35,14 @@ intelligent sensors.
 From 2006 on, I have worked in internships, as a project staff member, software engineer, and consultant in 
 Austrian IT-companies.
 
-My research focus is (conceptual) models in a variety of domains and applications, domain-specific modeling languages 
-and methods, model-based software engineering and software architectures. Recent work deals with privacy-preserving 
-system design, the human factor on the internet of production, smart assisted living, the semantic analysis of models, 
-behavior goal modeling and assistive and informative systems in general.
+My research foci are model-driven software engineering and software architectures,
+domain-specific languages and methods, and
+(conceptual) modeling in various domains and applications. 
+Recent work deals with 
+software architectures of assistive and informative systems, 
+modeling digital shadows and digital twins in the production domain, 
+privacy-preserving system design, smart assisted living, 
+the semantic analysis of models, and behavior goal modeling.
 
 Moreover, I am a member of the extended Board of Management of the German Informatics Society e.V. (GI). In 2015, I 
 have been appointed as a Junior Fellow of the GI. 

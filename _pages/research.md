@@ -52,6 +52,18 @@ a set of digital shadows, and provides a set of services to use the data and mod
 purposefully with respects to the original system.
 
 #### Selected Publications
+- [BHK+21] T. Brockhoff, M. Heithoff, I. Koren, J. Michael, J. Pfeiffer, B. Rumpe, M.S. Uysal,
+  W. M. P. van der Aalst, A. Wortmann: Process Prediction with Digital Twins. Models@runtime’21 (MODELS’21)
+  
+- [MW21] J. Michael, A. Wortmann:
+  [Towards Development Platforms for Digital Twins: A Model-Driven Low-Code Approach.](https://www.se-rwth.de/publications/Towards-Development-Platforms-for-Digital-Twins-A-Model-Driven-Low-Code-Approach.pdf)
+  In: Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems,
+  pp. 333-341, IFIP WG 5.7 International Conference, APMS 2021, Nantes, France, September 2021.
+
+- [BBD+21] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger,
+  J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann:
+  A conceptual model for digital shadows in industry and its application. ER’21
+
 - [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann: 
 [Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits.](https://www.se-rwth.de/publications/Towards-a-Model-Driven-Architecture-for-Interactive-Digital-Twin-Cockpits.pdf)
 In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Modeling, pp. 377-387, Springer, Oct. 2020.
@@ -61,19 +73,7 @@ In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Mode
 Information Systems.](http://www.se-rwth.de/publications/Model-driven-Digital-Twin-Construction-Synthesizing-the-Integration-of-Cyber-Physical-Systems-with-Their-Information-Systems.pdf)
 In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering 
 Languages and Systems, pages 90-101, October, 2020, ACM.
-
-- [BHK+21] T. Brockhoff, M. Heithoff, I. Koren, J. Michael, J. Pfeiffer, B. Rumpe, M.S. Uysal, 
-W. M. P. van der Aalst, A. Wortmann: Process Prediction with Digital Twins. Models@runtime’21 (MODELS’21)
-
-- [BBD+21] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger, 
-J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann: 
-A conceptual model for digital shadows in industry and its application. ER’21
-
-- [MW21] J. Michael, A. Wortmann: 
-[Towards Development Platforms for Digital Twins: A Model-Driven Low-Code Approach.](https://www.se-rwth.de/publications/Towards-Development-Platforms-for-Digital-Twins-A-Model-Driven-Low-Code-Approach.pdf)
-In: Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems, 
-pp. 333-341, IFIP WG 5.7 International Conference, APMS 2021, Nantes, France, September 2021.
-
+  
 
 ### Privacy
 Due to the General Data Protection Regulation (GDPR) organizations are obliged
@@ -104,10 +104,14 @@ ISBN 978-3-030-21296-4, LNBIP 350, pages 194-206, 2019.
 
 ### Model-Based Software Engineering of Information Systems
 Using a small set of models, it is possible to generate large parts of information systems. 
-With MontiGem, the generator framework for information systems, we have created a tool to support such a process in an 
+With MontiGem, the generator framework for information systems [GMN+20], we have created a tool to support such a process in an 
 agile, model-driven way. 
 
 #### Selected Publications
+
+- [DGM+21] I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga:
+  A Methodology for Retrofitting Generative Aspects in Existing Applications.
+  In: Journal of Object Technology. [in press]
 
 - [GMNR21] A. Gerasimov, J. Michael, L. Netz, B. Rumpe. 
 [Agile Generator-Based GUI Modeling for Information Systems.](http://www.se-rwth.de/publications/Agile-Generator-Based-GUI-Modeling-for-Information-Systems.pdf) 

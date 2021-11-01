@@ -23,7 +23,7 @@ make data privacy declarations more comprehensible and transparent.
 The InviDas project is jointly realized by the Gesellschaft für Informatik e.V., Stiftung Digitale Chancen, 
 Garmin Würzburg GmbH, RWTH Aachen University (Software Engineering, Chair and Institute of Industrial Engineering 
 and Ergonomics and Applied Ethics), Universität Bremen and Otto-Friedrich Universität Bamberg.
-The project is funded by the BMBF. More information on the [project Website](https://invidas.gi.de/)
+The project is funded by the BMBF. For more information have a look at the [project website](https://invidas.gi.de/)
 
 
 #### Publications:
