@@ -21,11 +21,17 @@ define restrictions on the data model and data input validation in the GUI.
 The generated parts include the database, the backend, the communication between application backend and the frontend
  and graphical user interfaces. 
 
+To support the retrofitting of existing applications, we have developed a methodology with three phases: 
+problem analysis and decomposition, domain-specific language engineering, and application engineering and 
+operation [DGM+21]. 
+We show this methodology using a concrete example from practice, namely an information system, 
+and discuss challenges with and lessons learned from the practical application. 
+
 We are using MontiGem in a series of projects and application
 domains, e.g., 
 energy management systems, 
 platforms to support the engineering of wind turbines, 
-cockpits for selfadaptive digital twins [DMR+20] within the Cluster of Excellence [Internet of Production](../iop),
+cockpits for self-adaptive digital twins [DMR+20] within the Cluster of Excellence [Internet of Production](../iop),
 a platform to manage and control chair finances, staff, and projects within the [MaCoCo](../macoco) project,
 or a platform for improving the
 understandablity of privacy policies of smart watches within the [InviDas](../invidas) project.
@@ -33,8 +39,9 @@ understandablity of privacy policies of smart watches within the [InviDas](../in
 #### Selected publications
 
 - [DGM+21] I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga:
-  A Methodology for Retrofitting Generative Aspects in Existing Applications. 
-  In: Journal of Object Technology. [in press]
+  [A Methodology for Retrofitting Generative Aspects in Existing Applications](http://www.jot.fm/issues/issue_2021_02/article7.pdf).
+  In: Journal of Object Technology, Volume 20, no. 2 , pages 1-24, November, 2021,
+  AITO - Association Internationale pour les Technologies Objets.
 
 - [GMNR21] A. Gerasimov, J. Michael, L. Netz, and B. Rumpe:
 [Agile Generator-Based GUI Modeling for Information Systems.](http://www.se-rwth.de/publications/Agile-Generator-Based-GUI-Modeling-for-Information-Systems.pdf)

@@ -33,7 +33,9 @@ pages 333-341, September, 2021, Springer International Publishing.
 
 - [BBD+21] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger,
   J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann:
-  A conceptual model for digital shadows in industry and its application. ER’21
+  [A conceptual model for digital shadows in industry and its application.](https://link.springer.com/chapter/10.1007/978-3-030-89022-3_22)
+  In: Ghose, A. and Horkoff, J. and Silva Souza, V.E. and Parsons, J. and Evermann J. (eds), Conceptual Modeling.
+  ER 2021, LNCS 13011, pages 271-281, October, 2021, Springer.
 
 - [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann:
   [Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits.](https://www.se-rwth.de/publications/Towards-a-Model-Driven-Architecture-for-Interactive-Digital-Twin-Cockpits.pdf)

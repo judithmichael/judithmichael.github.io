@@ -62,7 +62,9 @@ purposefully with respects to the original system.
 
 - [BBD+21] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger,
   J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann:
-  A conceptual model for digital shadows in industry and its application. ER’21
+  [A conceptual model for digital shadows in industry and its application.](https://link.springer.com/chapter/10.1007/978-3-030-89022-3_22) 
+  In: Ghose, A. and Horkoff, J. and Silva Souza, V.E. and Parsons, J. and Evermann J. (eds), Conceptual Modeling. 
+  ER 2021, LNCS 13011, pages 271-281, October, 2021, Springer. 
 
 - [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann: 
 [Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits.](https://www.se-rwth.de/publications/Towards-a-Model-Driven-Architecture-for-Interactive-Digital-Twin-Cockpits.pdf)
@@ -73,34 +75,6 @@ In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Mode
 Information Systems.](http://www.se-rwth.de/publications/Model-driven-Digital-Twin-Construction-Synthesizing-the-Integration-of-Cyber-Physical-Systems-with-Their-Information-Systems.pdf)
 In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering 
 Languages and Systems, pages 90-101, October, 2020, ACM.
-  
-
-### Privacy
-Due to the General Data Protection Regulation (GDPR) organizations are obliged
-to consider privacy throughout the complete development process.
-In our work, we have created privacy preserving information systems and demonstrated it on an IoT manufacturing use
-case [[MKM+19]](https://www.se-rwth.de/publications/User-Centered-and-Privacy-Driven-Process-Mining-System-Design-for-IoT.pdf),
-we have created an approach for differential privacy for event logs 
-[[MKB+19]](https://www.se-rwth.de/publications/Privacy-Preserving-Process-Mining.pdf)
-and we have shown how MDSE can be used to create privacy-preserving IoT systems
-[[MNRV19]](https://www.se-rwth.de/publications/Towards-Privacy-Preserving-IoT-Systems-Using-Model-Driven-Engineering.pdf).
-
-#### Selected Publications
-
-- [MNRV19] J. Michael, L. Netz, B. Rumpe, S. Varga.
-[Towards Privacy-Preserving IoT Systems Using Model Driven Engineering.](https://www.se-rwth.de/publications/Towards-Privacy-Preserving-IoT-Systems-Using-Model-Driven-Engineering.pdf)
-In: Nicolas Ferry, Antonio Cicchetti, Federico Ciccozzi, Arnor Solberg, Manuel Wimmer, Andreas Wortmann, editors,
-MDE4IoT & ModComp 2019, Model-Driven Engineering for the Internet of Things (MDE4IoT) &
-Interplay of Model-Driven and Component-Based Software Engineering (ModComp), pages 15-22, Sep, 2019, CEUR-WS.org.
-
-- [MKB+19] F. Mannhardt, A. Koschmider, N. Baracaldo, M. Weidlich, J. Michael. 
-[Privacy-Preserving Process Mining: Differential Privacy for Event Logs.](https://www.se-rwth.de/publications/Privacy-Preserving-Process-Mining.pdf) 
-Business & Information Systems Engineering (BISE), 61, pages 595-614, 2019.
-
-- [MKM+19] J. Michael, A. Koschmider, F. Mannhardt, N. Baracaldo, B. Rumpe.
-[User-Centered and Privacy-Driven Process Mining System Design for IoT.](https://www.se-rwth.de/publications/User-Centered-and-Privacy-Driven-Process-Mining-System-Design-for-IoT.pdf)
-Chapter in Information Systems Engineering in Responsible Information Systems, Springer,
-ISBN 978-3-030-21296-4, LNBIP 350, pages 194-206, 2019.
 
 ### Model-Based Software Engineering of Information Systems
 Using a small set of models, it is possible to generate large parts of information systems. 
@@ -110,8 +84,9 @@ agile, model-driven way.
 #### Selected Publications
 
 - [DGM+21] I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga:
-  A Methodology for Retrofitting Generative Aspects in Existing Applications.
-  In: Journal of Object Technology. [in press]
+  [A Methodology for Retrofitting Generative Aspects in Existing Applications](http://www.jot.fm/issues/issue_2021_02/article7.pdf).
+  In: Journal of Object Technology, Volume 20, no. 2 , pages 1-24, November, 2021,
+  AITO - Association Internationale pour les Technologies Objets. 
 
 - [GMNR21] A. Gerasimov, J. Michael, L. Netz, B. Rumpe. 
 [Agile Generator-Based GUI Modeling for Information Systems.](http://www.se-rwth.de/publications/Agile-Generator-Based-GUI-Modeling-for-Information-Systems.pdf) 
@@ -140,4 +115,33 @@ Berichte des NEGZ, Nationales E-Government Kompetenzzentrum e. V., June, 2021.
 - [DHH+20] I. Drave, T. Henrich, K. Hölldobler, O. Kautz, J. Michael, B. Rumpe. 
 [Modellierung, Verifikation und Synthese von validen Planungszuständen für Fernsehausstrahlungen.](http://www.se-rwth.de/publications/Modellierung-Verifikation-und-Synthese-von-validen-Planungszustaenden-fuer-Fernsehausstrahlungen.pdf) 
 In: Dominik Bork, Dimitris Karagiannis, Heinrich C. Mayr, editors, Modellierung 2020, pages 173-188, 
-February, 2020, Gesellschaft für Informatik e.V..
+February, 2020, Gesellschaft für Informatik e.V.
+
+
+
+### Privacy
+Due to the General Data Protection Regulation (GDPR) organizations are obliged
+to consider privacy throughout the complete development process.
+In our work, we have created privacy preserving information systems and demonstrated it on an IoT manufacturing use
+case [[MKM+19]](https://www.se-rwth.de/publications/User-Centered-and-Privacy-Driven-Process-Mining-System-Design-for-IoT.pdf),
+we have created an approach for differential privacy for event logs
+[[MKB+19]](https://www.se-rwth.de/publications/Privacy-Preserving-Process-Mining.pdf)
+and we have shown how MDSE can be used to create privacy-preserving IoT systems
+[[MNRV19]](https://www.se-rwth.de/publications/Towards-Privacy-Preserving-IoT-Systems-Using-Model-Driven-Engineering.pdf).
+
+#### Selected Publications
+
+- [MNRV19] J. Michael, L. Netz, B. Rumpe, S. Varga.
+  [Towards Privacy-Preserving IoT Systems Using Model Driven Engineering.](https://www.se-rwth.de/publications/Towards-Privacy-Preserving-IoT-Systems-Using-Model-Driven-Engineering.pdf)
+  In: Nicolas Ferry, Antonio Cicchetti, Federico Ciccozzi, Arnor Solberg, Manuel Wimmer, Andreas Wortmann, editors,
+  MDE4IoT & ModComp 2019, Model-Driven Engineering for the Internet of Things (MDE4IoT) &
+  Interplay of Model-Driven and Component-Based Software Engineering (ModComp), pages 15-22, Sep, 2019, CEUR-WS.org.
+
+- [MKB+19] F. Mannhardt, A. Koschmider, N. Baracaldo, M. Weidlich, J. Michael.
+  [Privacy-Preserving Process Mining: Differential Privacy for Event Logs.](https://www.se-rwth.de/publications/Privacy-Preserving-Process-Mining.pdf)
+  Business & Information Systems Engineering (BISE), 61, pages 595-614, 2019.
+
+- [MKM+19] J. Michael, A. Koschmider, F. Mannhardt, N. Baracaldo, B. Rumpe.
+  [User-Centered and Privacy-Driven Process Mining System Design for IoT.](https://www.se-rwth.de/publications/User-Centered-and-Privacy-Driven-Process-Mining-System-Design-for-IoT.pdf)
+  Chapter in Information Systems Engineering in Responsible Information Systems, Springer,
+  ISBN 978-3-030-21296-4, LNBIP 350, pages 194-206, 2019.
