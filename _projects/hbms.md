@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Human Behavior Monitoring and Support 
-img: /assets/img/6.jpg
+title: Human Behavior Monitoring and Support (HBMS) 
+img: /assets/img/hbms.jpg
 importance: 6
 ---
 

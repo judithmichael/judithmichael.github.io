@@ -1,8 +1,8 @@
 ---
 layout: page
-title: InviDas
+title: Improving Digital Sovereignty (InviDas)
 description: 
-img: /assets/img/invidas.png
+img: /assets/img/invidas.jpg
 redirect: 
 importance: 2
 ---

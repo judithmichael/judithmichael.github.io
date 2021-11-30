@@ -1,8 +1,8 @@
 ---
 layout: page
-title: SemanticDiff 
+title: A Semantic Approach to Evolution Analysis in MBSE (SemanticDiff) 
 description: 
-img: /assets/img/4.jpg
+img: /assets/img/semdiff.jpg
 importance: 4
 ---
 

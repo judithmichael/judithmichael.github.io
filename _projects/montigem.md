@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MontiGem 
+title: The generator framework MontiGem 
 description: 
 img: /assets/img/montigem.png
 importance: 5
