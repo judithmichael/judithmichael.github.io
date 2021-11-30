@@ -17,6 +17,10 @@ in an agile model-based way using generators for code synthesis.
 This website presents selected research topics and related publications.
 The full list of publications is available on the [publications](../publications) page.
 
+<p align="center">
+   <img src="{{ '/assets/img/balken_ass.png' | relative_url }}" width = "100%" alt="" title="Assistive System">
+</p>
+
 ### Assistive Systems
 Assistive systems provide situational support for human behaviour based on information from previously stored and
 real-time monitored structural context and behaviour data at the time a person
@@ -45,6 +49,9 @@ Demo Track co-located with the 36th Int. Conference on Conceptual Modelling (ER 
 In: F. Chen, R. I. García-Betances, L. Chen, M. F. Cabrera-Umpiérrez, C. Nugent, editors,
 Smart Assisted Living: Toward An Open Smart-Home Infrastructure, pp. 227-246, Springer, 2020.
 
+<p align="center">
+   <img src="{{ '/assets/img/balken_dtds.png' | relative_url }}" width = "100%" alt="" title="Digital Twins">
+</p>
 
 ### Digital Twins & Digital Shadows
 In our understanding, a digital twin consists of a set of models of the system, 
@@ -76,6 +83,10 @@ Information Systems.](http://www.se-rwth.de/publications/Model-driven-Digital-Tw
 In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering 
 Languages and Systems, pages 90-101, October, 2020, ACM.
 
+<p align="center">
+   <img src="{{ '/assets/img/balken_mbseis.png' | relative_url }}" width = "100%" alt="" title="MBSE of Information Systems">
+</p>
+
 ### Model-Based Software Engineering of Information Systems
 Using a small set of models, it is possible to generate large parts of information systems. 
 With MontiGem, the generator framework for information systems [GMN+20], we have created a tool to support such a process in an 
@@ -99,6 +110,9 @@ In: Bonnie Anderson, Jason Thatcher, Rayman Meservy, editors,
 25th Americas Conference on Information Systems (AMCIS 2020), AIS Electronic Library (AISeL), 
 pages 1-10, August, 2020, Association for Information Systems (AIS).
 
+<p align="center">
+   <img src="{{ '/assets/img/balken_law.png' | relative_url }}" width = "100%" alt="" title="Modeling Law">
+</p>
 
 ### Modeling Law
 Domain-specific languages provide means to formulate law and contracts. 
@@ -117,7 +131,9 @@ Berichte des NEGZ, Nationales E-Government Kompetenzzentrum e. V., June, 2021.
 In: Dominik Bork, Dimitris Karagiannis, Heinrich C. Mayr, editors, Modellierung 2020, pages 173-188, 
 February, 2020, Gesellschaft für Informatik e.V.
 
-
+<p align="center">
+   <img src="{{ '/assets/img/balken_privacy.png' | relative_url }}" width = "100%" alt="" title="Privacy">
+</p>
 
 ### Privacy
 Due to the General Data Protection Regulation (GDPR) organizations are obliged
