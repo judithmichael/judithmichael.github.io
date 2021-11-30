@@ -7,6 +7,8 @@ nav: true
 order: 5
 ---
 
+   <img style = "padding-left: 10px;" src="{{ '/assets/img/teaching.jpg' | relative_url }}" width = "35%" alt="" title="Students" align="right">
+
 For me, research and teaching are closely linked. 
 Teaching becomes more exciting when you can bring examples from practice and current research results, 
 and in research, we benefit from the new ideas that students contribute. Thus, I try to foster the interest of students
