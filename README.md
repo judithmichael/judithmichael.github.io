@@ -113,6 +113,11 @@ $ bundle exec jekyll serve
 Now, feel free to customize the theme however you like (don't forget to change the name!).
 After you are done, **commit** your final changes.
 
+#### Local checks
+
+* ```jekyll build``` - Builds the site and outputs a static site to a directory called _site.
+* ```jekyll serve``` - Does jekyll build and runs it on a local web server at http://localhost:4000, rebuilding the site any time you make a change
+
 #### Deployment
 
 Deploying your website to [GitHub Pages](https://pages.github.com/) is the most popular option.

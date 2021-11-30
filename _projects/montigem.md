@@ -2,7 +2,7 @@
 layout: page
 title: MontiGem 
 description: 
-img: /assets/img/5.jpg
+img: /assets/img/montigem.png
 importance: 5
 ---
 

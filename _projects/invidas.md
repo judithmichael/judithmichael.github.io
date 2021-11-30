@@ -2,7 +2,7 @@
 layout: page
 title: InviDas
 description: 
-img: /assets/img/7.jpg
+img: /assets/img/invidas.png
 redirect: 
 importance: 2
 ---
