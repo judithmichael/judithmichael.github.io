@@ -2,7 +2,7 @@
 layout: page
 title: Management Cockpit for Controlling (MaCoCo)
 description: 
-img: /assets/img/12.jpg
+img: /assets/img/macoco.png
 importance: 1
 ---
 
