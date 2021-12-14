@@ -160,7 +160,7 @@ scholar:
   last_name: Michael
   first_name: [Judith, J.]
 
-  style: ieee #apa
+  style: apa #apa
   locale: en
 
   source: /_bibliography/

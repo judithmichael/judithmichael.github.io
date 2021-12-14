@@ -1,9 +1,6 @@
 # Website
 
 
-
-
-
 ## Theme
 The [al-folio](https://github.com/alshedivat/al-folio) theme is a simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 
