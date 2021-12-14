@@ -44,5 +44,5 @@ modeling digital shadows and digital twins in the production domain,
 privacy-preserving system design, smart assisted living, 
 the semantic analysis of models, and behavior goal modeling.
 
-Moreover, I am a member of the extended Board of Management of the German Informatics Society e.V. (GI). In 2015, I 
-have been appointed as a Junior Fellow of the GI. 
+Moreover, I am a member of the extended Board of Management of the [German Informatics Society e.V. (GI)](https://gi.de/). In 2015, I 
+have been appointed as a [Junior Fellow](https://gi.de/ueber-uns/personen/junior-fellows) of the GI. 
