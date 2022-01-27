@@ -28,7 +28,7 @@ needs or asks for it.
 
 #### Selected Publications:
 
-- [MRZ21] J. Michael, B. Rumpe, L.T. Zimmermann: Goal Modeling and MDSE for Behavior Assistance.  
+- [MRZ21] J. Michael, B. Rumpe, L.T. Zimmermann: [Goal Modeling and MDSE for Behavior Assistance](http://www.se-rwth.de/publications/Goal-Modeling-and-MDSE-for-Behavior-Assistance.pdf).  
   In: Int. Conf. on Model Driven Engineering Languages and Systems Companion (MODELS-C), 
   pages 370-379, 2021.
 
@@ -60,7 +60,7 @@ purposefully with respects to the original system.
 
 #### Selected Publications
 - [BHK+21] T. Brockhoff, M. Heithoff, I. Koren, J. Michael, J. Pfeiffer, B. Rumpe, M.S. Uysal,
-  W. M. P. van der Aalst, A. Wortmann: Process Prediction with Digital Twins. Models@runtime’21 (MODELS’21)
+  W. M. P. van der Aalst, A. Wortmann: [Process Prediction with Digital Twins](http://www.se-rwth.de/publications/Process-Prediction-with-Digital-Twins.pdf). Models@runtime’21 (MODELS’21)
   
 - [MW21] J. Michael, A. Wortmann:
   [Towards Development Platforms for Digital Twins: A Model-Driven Low-Code Approach.](https://www.se-rwth.de/publications/Towards-Development-Platforms-for-Digital-Twins-A-Model-Driven-Low-Code-Approach.pdf)
