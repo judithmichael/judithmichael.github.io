@@ -76,13 +76,21 @@
       {% elsif entry.type == "inbook" %}
         <em>In: {{entry.booktitle}},</em>
         {% elsif entry.type == "book" %}
-        <em>{{entry.booktitle}},</em>
+          {% if entry.booktitle %}
+            <em>{{entry.booktitle}}<em>,
+          {% endif %}
+          {% if entry.series %}
+            In: {{entry.series}},
+          {% endif %}
+          {% if entry.isbn %}
+            ISBN {{entry.isbn}}
+          {% endif %}
       {% endif %}
         {% if entry.pages %}
-        {{entry.pages}},
+          {{entry.pages}},
         {% endif %}
         {% if entry.publisher %}
-        {{entry.publisher}},
+          {{entry.publisher}},
         {% endif %}
       {% if entry.month %}
         {{entry.month | capitalize}}.
