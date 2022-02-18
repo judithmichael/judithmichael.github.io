@@ -17,7 +17,7 @@
       {{reference}}
     {% else %}
 
-      <div class="author">[{{entry.key}}]
+      <div class="author" style="display: inline">[{{entry.key}}]
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
           {% if author.last == site.scholar.last_name%}
@@ -57,9 +57,9 @@
                 and <em>{{author.first| slice:0}}. {{author.last}}</em>
               {% else %}
                 {% if coauthor_url %}
-                  and <a href="{{coauthor_url}}">{{author.first| slice:0}}. {{author.last}}</a>
+                  and <a href="{{coauthor_url}}">{{author.first| slice:0}}. {{author.last}}</a>:
                 {% else %}
-                  and {{author.first| slice:0}}. {{author.last}}
+                  and {{author.first| slice:0}}. {{author.last}}:
                 {% endif %}
               {% endif %}
             {% endunless %}
@@ -67,8 +67,8 @@
         {% endfor %}
       </div>
 
-      <div class="title"><a href="{{entry.url}}">{{entry.title}}</a>,</div>
-      <div class="periodical">
+      <div class="title" style="display: inline"><a href="{{entry.url}}">{{entry.title}}</a>.</div>
+      <div class="periodical" style="display: inline">
       {% if entry.type == "article" %}
         <em>{{entry.journal}},</em>
       {% elsif entry.type == "inproceedings" %}
