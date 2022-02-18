@@ -70,7 +70,7 @@
       <div class="title" style="display: inline"><a href="{{entry.url}}">{{entry.title}}</a>.</div>
       <div class="periodical" style="display: inline">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}},</em>
+        <em>In: {{entry.journal}},</em> Volume {{entry.volume}}, Issue {{entry.issue}},
       {% elsif entry.type == "inproceedings" %}
         <em>In: {{entry.booktitle}},</em>
       {% elsif entry.type == "inbook" %}
@@ -78,14 +78,17 @@
         {% elsif entry.type == "book" %}
         <em>{{entry.booktitle}},</em>
       {% endif %}
+        {% if entry.pages %}
+        {{entry.pages}},
+        {% endif %}
         {% if entry.publisher %}
-        {{entry.publisher}}
+        {{entry.publisher}},
         {% endif %}
       {% if entry.month %}
-        {{entry.month | capitalize}}
+        {{entry.month | capitalize}}.
       {% endif %}
       {% if entry.year %}
-        {{entry.year}}
+        {{entry.year}}.
       {% endif %}
       </div>
     {% endif %}
