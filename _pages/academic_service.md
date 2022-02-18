@@ -8,6 +8,7 @@ nav: false
 
 Currently, I am [SE 2022](https://www.se-2022.de/) and [Modellierung 2022](https://qfam.gi.de/modellierung2022) workshop co-chair, 
 and [ER 2022](https://er2022web.github.io/ER2022/) publicity and social media co-chair. 
+Currently, we are organizing a Workshop on Modeling in (and for) Production [MoPro'2022](https://judithmichael.github.io/mopro22).
 
 Former duties:
 - co-chair of [EMISA 2020](http://ceur-ws.org/Vol-2628/) 
@@ -27,10 +28,13 @@ and the *[Modellierung](https://qfam.gi.de/)* series of the German Informatics S
 
 Moreover, I have reviewed for the following journals:
 
+- Transactions on Software Engineering (TOSEM)
+- Software and Systems Modeling (SoSyM)
+- Software: Practice and Experience
 - [Enterprise Modelling and Information Systems Architectures - International Journal of Conceptual Modeling (EMISAJ)](https://www.emisa-journal.org/),
 - Business & Information Systems Engineering (BISE),
-- Software: Practice and Experience,
-- Software and Systems Modeling (SoSyM).
+- Data and Knowledge Engineering (DKE).
+
 
 Regarding academic self-administration at the Alpen-Adria-Universität Klagenfurt I was, e.g., a member of the Senate, 
 of the Committee of Continuing Education, of the Curricular Commissions Doctorate, 
