@@ -7,7 +7,8 @@ nav: true
 order: 5
 ---
 
-   <img style = "padding-left: 10px;" src="{{ '/assets/img/teaching.jpg' | relative_url }}" width = "35%" alt="" title="Students" align="right">
+<img style = "padding-left: 10px;" src="{{ '/assets/img/teaching.jpg' | relative_url }}" width = "35%" alt="" title="Students" align="right">
+
 
 For me, research and teaching are closely linked. 
 Teaching becomes more exciting when you can bring examples from practice and current research results, 
@@ -99,3 +100,8 @@ Moreover, I've been teaching in the [NEMO Summer School](http://nemo.omilab.org/
 University Level Courses 
 ([ULG IT Business Solutions](https://www.aau.at/universitaetslehrgaenge/it-business-solutions/)) 
 for the M/O/T (Alpen-Adria-School of Management, Organizational Development and Technology).
+
+In a student project, we have developed a tool for the visualization of different serach, and sort algoritms as well as binary trees and
+B-trees for other students, who want to understand the algorithms more easily. It was
+further improved within the last years with other student projects and is still available:
+[go2algo](https://www.syssec.at/de/lehre/go2algo).

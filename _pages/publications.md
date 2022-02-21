@@ -16,6 +16,9 @@ controlling, IoP and IoT domains. Please see further publications in my
 For more publications of the Software Engineering group, please have a look at the prepared 
 [curated lists](http://www.se-rwth.de/topics/).
 
+My PhD thesis in the Application Engineering group (Prof. Heinrich C. Mayr) at AAU, Austria, was about
+[cognitive modelling for assistive systems](http://netlibrary.aau.at/obvuklhs/content/titleinfo/2410412).
+
 <div class="publications">
 
 {% for y in page.years %}
@@ -25,5 +28,3 @@ For more publications of the Software Engineering group, please have a look at t
 
 </div>
 
-My PhD thesis in the Application Engineering group (Prof. Heinrich C. Mayr) at AAU, Austria, was about 
-[cognitive modelling for assistive systems](http://netlibrary.aau.at/obvuklhs/content/titleinfo/2410412).
