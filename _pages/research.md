@@ -24,7 +24,14 @@ The full list of publications is available on the [publications](../publications
 ### Assistive Systems
 Assistive systems provide situational support for human behaviour based on information from previously stored and
 real-time monitored structural context and behaviour data at the time a person
-needs or asks for it.
+needs or asks for it [HMR+19](https://www.se-rwth.de/publications/Innovations-in-Model-based-Software-And-Systems-Engineering.pdf).
+They provide critical functionality, or ensure safety in potentially dangerous work environments. 
+Research is needed, as most of them are restricted to certain use cases which allows for less reusability.
+We investigate needed context information [MS17](http://ceur-ws.org/Vol-1979/paper-22.pdf),
+modeling languages used during runtime and to support the engineering [MM13](http://www.se-rwth.de/publications/Conceptual-Modeling-for-Ambient-Assistance.pdf),
+[MRV20](http://www.se-rwth.de/publications/Human-Behavior-Goals-and-Model-Driven-Software-Engineering-for-Assistive-Systems.pdf),
+[MRZ21](http://www.se-rwth.de/publications/Goal-Modeling-and-MDSE-for-Behavior-Assistance.pdf),
+and how to automate the engineering of assistive systems.
 
 #### Selected Publications:
 
@@ -38,16 +45,16 @@ In: Agnes Koschmider, Judith Michael, Bernhard Thalheim, editors,
 Enterprise Modeling and Information Systems Architectures (EMSIA 2020), 2628, pages 11-18, 
 June, 2020, CEUR Workshop Proceedings.
 
-- [MM13] J. Michael, H. C. Mayr. [Conceptual Modeling for Ambient Assistance.](https://dl.acm.org/doi/10.1007/978-3-642-41924-9_33)
-In: Conceptual Modeling - ER 2013, LNCS 8217, pages 403-413, 2013, Springer.
+- [SM20] C. Steinberger, J. Michael: [Using Semantic Markup to Boost Context Awareness for Assistive Systems.](https://www.se-rwth.de/publications/Using-Semantic-Markup-to-Boost-Context-Awareness-for-Assistive-Systems.pdf)
+  In: F. Chen, R. I. García-Betances, L. Chen, M. F. Cabrera-Umpiérrez, C. Nugent, editors,
+  Smart Assisted Living: Toward An Open Smart-Home Infrastructure, pp. 227-246, Springer, 2020.
 
 - [MS17] J. Michael, C. Steinberger. [Context Modeling for Active Assistance.](http://ceur-ws.org/Vol-1979/paper-22.pdf)
-In: Cristina Cabanillas, Sergio España, Siamak Farshidi, editors, Proc. of the ER Forum 2017 and the ER 2017
-Demo Track co-located with the 36th Int. Conference on Conceptual Modelling (ER 2017), pages 221-234, 2017.
+  In: Cristina Cabanillas, Sergio España, Siamak Farshidi, editors, Proc. of the ER Forum 2017 and the ER 2017
+  Demo Track co-located with the 36th Int. Conference on Conceptual Modelling (ER 2017), pages 221-234, 2017.
 
-- [SM20] C. Steinberger, J. Michael: [Using Semantic Markup to Boost Context Awareness for Assistive Systems.](https://www.se-rwth.de/publications/Using-Semantic-Markup-to-Boost-Context-Awareness-for-Assistive-Systems.pdf)
-In: F. Chen, R. I. García-Betances, L. Chen, M. F. Cabrera-Umpiérrez, C. Nugent, editors,
-Smart Assisted Living: Toward An Open Smart-Home Infrastructure, pp. 227-246, Springer, 2020.
+- [MM13] J. Michael, H. C. Mayr. [Conceptual Modeling for Ambient Assistance.](http://www.se-rwth.de/publications/Conceptual-Modeling-for-Ambient-Assistance.pdf)
+In: Conceptual Modeling - ER 2013, LNCS 8217, pages 403-413, 2013, Springer.
 
 <p align="center">
    <img src="{{ '/assets/img/balken_dtds.png' | relative_url }}" width = "100%" alt="" title="Digital Twins">
@@ -56,7 +63,8 @@ Smart Assisted Living: Toward An Open Smart-Home Infrastructure, pp. 227-246, Sp
 ### Digital Twins & Digital Shadows
 In our understanding, a digital twin consists of a set of models of the system, 
 a set of digital shadows, and provides a set of services to use the data and models 
-purposefully with respects to the original system.
+purposefully with respects to the original system[DMR+20](https://www.se-rwth.de/publications/Towards-a-Model-Driven-Architecture-for-Interactive-Digital-Twin-Cockpits.pdf).
+
 
 #### Selected Publications
 - [BHK+21] T. Brockhoff, M. Heithoff, I. Koren, J. Michael, J. Pfeiffer, B. Rumpe, M.S. Uysal,
