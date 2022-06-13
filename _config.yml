@@ -70,7 +70,7 @@ rss_icon: false
 contact_note: >
   Contact me via Email.
 
-google_analytics: UA-211217630-1 # out your google-analytics code
+google_analytics: XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
