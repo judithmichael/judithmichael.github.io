@@ -6,11 +6,13 @@ description:
 nav: false
 ---
 
-Currently, I am [SE 2022](https://www.se-2022.de/) and [Modellierung 2022](https://qfam.gi.de/modellierung2022) workshop co-chair, 
+I am [Modellierung 2022](https://qfam.gi.de/modellierung2022) workshop co-chair, 
 and [ER 2022](https://er2022web.github.io/ER2022/) publicity and social media co-chair. 
-Currently, we are organizing a Workshop on Modeling in (and for) Production [MoPro'2022](https://judithmichael.github.io/mopro22).
+Currently, we are organizing a Workshop on Modeling in (and for) Production 
+[MoPro'2022](https://judithmichael.github.io/mopro22).
 
 Former duties:
+- workshop co-chair of [SE 2022](https://www.se-2022.de/)
 - co-chair of [EMISA 2020](http://ceur-ws.org/Vol-2628/) 
 and [2021](http://ceur-ws.org/Vol-2867/)
 - co-chair of the [ER 2020 Forum](http://ceur-ws.org/Vol-2716/). 
