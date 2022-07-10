@@ -24,16 +24,20 @@ The full list of publications is available on the [publications](../publications
 ### Assistive Systems
 Assistive systems provide situational support for human behaviour based on information from previously stored and
 real-time monitored structural context and behaviour data at the time a person
-needs or asks for it [HMR+19](https://www.se-rwth.de/publications/Innovations-in-Model-based-Software-And-Systems-Engineering.pdf).
+needs or asks for it [HMR+19].
 They provide critical functionality, or ensure safety in potentially dangerous work environments. 
 Research is needed, as most of them are restricted to certain use cases which allows for less reusability.
-We investigate needed context information [MS17](http://ceur-ws.org/Vol-1979/paper-22.pdf),
-modeling languages used during runtime and to support the engineering [MM13](http://www.se-rwth.de/publications/Conceptual-Modeling-for-Ambient-Assistance.pdf),
-[MRV20](http://www.se-rwth.de/publications/Human-Behavior-Goals-and-Model-Driven-Software-Engineering-for-Assistive-Systems.pdf),
-[MRZ21](http://www.se-rwth.de/publications/Goal-Modeling-and-MDSE-for-Behavior-Assistance.pdf),
+We investigate needed context information [MS17],
+modeling languages used during runtime and to support the engineering [MM13],
+[MRV20],
+[MRZ21],
 and how to automate the engineering of assistive systems.
+Investigated domains are, e.g., financial management [MRZ21], smart homes, or production [Mic22]. 
 
 #### Selected Publications:
+
+- [Mic22] J. Michael: [A Vision Towards Generated Assistive Systems for Supporting Human Interactions in Production](https://dx.doi.org/10.18420/modellierung2022ws-019).
+In: Modellierung 2022 Satellite Events, pp. 150–153, Gesellschaft für Informatik e.V., Bonn, 2022.
 
 - [MRZ21] J. Michael, B. Rumpe, L.T. Zimmermann: [Goal Modeling and MDSE for Behavior Assistance](http://www.se-rwth.de/publications/Goal-Modeling-and-MDSE-for-Behavior-Assistance.pdf).  
   In: Int. Conf. on Model Driven Engineering Languages and Systems Companion (MODELS-C), 
@@ -62,28 +66,36 @@ In: Conceptual Modeling - ER 2013, LNCS 8217, pages 403-413, 2013, Springer.
 
 ### Digital Twins & Digital Shadows
 In our understanding, a digital twin consists of a set of models of the system, 
-a set of digital shadows, and provides a set of services to use the data and models 
-purposefully with respects to the original system[DMR+20](https://www.se-rwth.de/publications/Towards-a-Model-Driven-Architecture-for-Interactive-Digital-Twin-Cockpits.pdf).
+a set of digital shadows [BBD+21], and provides a set of services to use the data and models 
+purposefully with respects to the original system [DMR+20].
 
 
 #### Selected Publications
+- [BMR+22] D. Bano, J. Michael, B. Rumpe, S. Varga, M. Weske:
+  [Process-Aware Digital Twin Cockpit Synthesis from Event Logs](https://www.se-rwth.de/publications/Process-Aware-Digital-Twin-Cockpit-Synthesis-from-Event-Logs.pdf).
+  In: Journal of Computer Languages (COLA), Volume 70, Elsevier, 2022.
+
+- [DHM+22] M. Dalibor, M. Heithoff, J. Michael, L. Netz, J. Pfeiffer, B. Rumpe, S. Varga, A. Wortmann:
+  [Generating Customized Low-Code Development Platforms for Digital Twins](https://www.se-rwth.de/publications/Generating-Customized-Low-Code-Development-Platforms-for-Digital-Twins.pdf).
+  In: Journal of Computer Languages (COLA), Volume 70, Elsevier, 2022.
+
+- [MPRW22] J. Michael, J. Pfeiffer, B. Rumpe, A. Wortmann:
+  [Integration Challenges for Digital Twin Systems-of-Systems](https://www.se-rwth.de/publications/Integration-Challenges-for-Digital-Twin-Systems-of-Systems.pdf).
+  In: 10th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems, pp. 9-12, IEEE, May 2022.
+
 - [BHK+21] T. Brockhoff, M. Heithoff, I. Koren, J. Michael, J. Pfeiffer, B. Rumpe, M.S. Uysal,
-  W. M. P. van der Aalst, A. Wortmann: [Process Prediction with Digital Twins](http://www.se-rwth.de/publications/Process-Prediction-with-Digital-Twins.pdf). Models@runtime’21 (MODELS’21)
-  
-- [MW21] J. Michael, A. Wortmann:
-  [Towards Development Platforms for Digital Twins: A Model-Driven Low-Code Approach.](https://www.se-rwth.de/publications/Towards-Development-Platforms-for-Digital-Twins-A-Model-Driven-Low-Code-Approach.pdf)
-  In: Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems,
-  pp. 333-341, IFIP WG 5.7 International Conference, APMS 2021, Nantes, France, September 2021.
+  W. M. P. van der Aalst, A. Wortmann: 
+  [Process Prediction with Digital Twins](http://www.se-rwth.de/publications/Process-Prediction-with-Digital-Twins.pdf). Models@runtime’21 (MODELS’21).
 
 - [BBD+21] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger,
   J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann:
   [A conceptual model for digital shadows in industry and its application.](https://link.springer.com/chapter/10.1007/978-3-030-89022-3_22) 
-  In: Ghose, A. and Horkoff, J. and Silva Souza, V.E. and Parsons, J. and Evermann J. (eds), Conceptual Modeling. 
+  In: Conceptual Modeling. 
   ER 2021, LNCS 13011, pages 271-281, October, 2021, Springer. 
 
 - [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann: 
 [Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits.](https://www.se-rwth.de/publications/Towards-a-Model-Driven-Architecture-for-Interactive-Digital-Twin-Cockpits.pdf)
-In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Modeling, pp. 377-387, Springer, Oct. 2020.
+In: Conceptual Modeling, pp. 377-387, Springer, Oct. 2020.
 
 - [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. 
 [Model-driven Digital Twin Construction: Synthesizing the Integration of Cyber-Physical Systems with Their 
@@ -124,8 +136,8 @@ pages 1-10, August, 2020, Association for Information Systems (AIS).
 
 ### Modeling Law
 Domain-specific languages provide means to formulate law and contracts. 
-This allows to verify plans according to contracts [[DHH+20]](http://www.se-rwth.de/publications/Modellierung-Verifikation-und-Synthese-von-validen-Planungszustaenden-fuer-Fernsehausstrahlungen.pdf)
-and to generate related IT systems from law [[RMK+21]](http://www.se-rwth.de/publications/Digitalisierung-der-Gesetzgebung-zur-Steigerung-der-digitalen-Souveraenitaet-des-Staates.pdf).
+This allows to verify plans according to contracts [DHH+20],
+and to generate related IT systems from law [RMK+21].
 
 
 #### Selected Publications
@@ -147,11 +159,11 @@ February, 2020, Gesellschaft für Informatik e.V.
 Due to the General Data Protection Regulation (GDPR) organizations are obliged
 to consider privacy throughout the complete development process.
 In our work, we have created privacy preserving information systems and demonstrated it on an IoT manufacturing use
-case [[MKM+19]](https://www.se-rwth.de/publications/User-Centered-and-Privacy-Driven-Process-Mining-System-Design-for-IoT.pdf),
+case [MKM+19],
 we have created an approach for differential privacy for event logs
-[[MKB+19]](https://www.se-rwth.de/publications/Privacy-Preserving-Process-Mining.pdf)
+[MKB+19]
 and we have shown how MDSE can be used to create privacy-preserving IoT systems
-[[MNRV19]](https://www.se-rwth.de/publications/Towards-Privacy-Preserving-IoT-Systems-Using-Model-Driven-Engineering.pdf).
+[MNRV19].
 
 #### Selected Publications
 

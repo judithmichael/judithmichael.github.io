@@ -9,23 +9,23 @@
     <div class="author" style="display: inline">
       {% for author in entry.author_array %}
         {% if forloop.length == 1 %}
-          {{author.first | slice:0}}. {{author.last}}:
+            {{author.first | slice:0}}. {{author.prefix}} {{author.last}}:
         {% else %}
           {% unless forloop.last %}
-            {{author.first| slice:0}}. {{author.last}},
+            {{author.first| slice:0}}. {{author.prefix}} {{author.last}},
           {% else %}
-            {{author.first| slice:0}}. {{author.last}}:
+            {{author.first| slice:0}}. {{author.prefix}} {{author.last}}:
           {% endunless %}
         {% endif %}
       {% endfor %}
 
       {% unless entry.author %}
         {% for editor in entry.editor_array %}
-          {% unless forloop.last %}
-            {{editor.first| slice:0}}. {{editor.last}},
-          {% else %}
-            {{editor.first| slice:0}}. {{editor.last}} (Eds.):
-          {% endunless %}
+            {% unless forloop.last %}
+                  {{editor.first| slice:0}}. {{editor.prefix}} {{editor.last}},
+            {% else %}
+                  {{editor.first| slice:0}}. {{editor.prefix}} {{editor.last}} (Eds.):
+            {% endunless %}
         {% endfor %}
       {% endunless %}
     </div>
@@ -34,23 +34,30 @@
     <div class="title"><a href="{{entry.url}}">{{entry.title}}</a>.</div>
 
     <div class="periodical" style="display: inline">
-      In:
-      {% if entry.author and entry.editor %}
-        {% for editor in entry.editor_array %}
-          {% unless forloop.last %}
-            {{editor.first| slice:0}}. {{editor.last}},
-          {% else %}
-            {{editor.first| slice:0}}. {{editor.last}} (Eds.):
-          {% endunless %}
-        {% endfor %}
-      {% endif %}
-
       {% if entry.journal %}
-        {{entry.journal}},
+        {% if entry.author %}
+          In: {{entry.journal}},
+        {% else %}
+          {{entry.journal}},
+        {% endif %}
       {% endif %}
 
       {% if entry.booktitle %}
-        {{entry.booktitle}},
+        {% if entry.author %}
+          In: {{entry.booktitle}},
+        {% else %}
+          {{entry.booktitle}},
+        {% endif %}
+      {% endif %}
+
+      {% if entry.author and entry.editor %}
+        {% for editor in entry.editor_array %}
+          {% unless forloop.last %}
+            {{editor.first| slice:0}}. {{editor.prefix}} {{editor.last}},
+          {% else %}
+            {{editor.first| slice:0}}. {{editor.prefix}} {{editor.last}} (Eds.),
+          {% endunless %}
+        {% endfor %}
       {% endif %}
 
       {% if entry.institution %}
@@ -60,8 +67,23 @@
         {% endif %}
       {% endif %}
 
+      {% if entry.type == "techreport" or entry.type == "Technical Report" or entry.type == "Technischer Bericht" %}
+        {%if (entry.language == "german" or entry.language == "German") %}
+          Technischer Bericht,
+        {% else %}
+          Technical Report,
+        {% endif %}
+      {% endif %}
+
+      {% if entry.type == "Informatik-Bericht" %}
+        Informatik-Bericht,
+      {% endif %}
       {% if entry.volume %}
-        Volume {{entry.volume}}{% if entry.number %}({{entry.number}}){% endif %},
+        {%if (entry.language == "german" or entry.language == "German") %}
+          Band {{entry.volume}}{% if entry.number %}({{entry.number}}){% endif %},
+        {% else %}
+          Volume {{entry.volume}}{% if entry.number %}({{entry.number}}){% endif %},
+        {% endif %}
       {% endif %}
       {% if entry.chapter %}
         ch. {{entry.chapter}},
@@ -86,6 +108,9 @@
       {% endif %}
       {% if entry.year %}
         {{entry.year}}.
+      {% endif %}
+      {% if entry.note %}
+        {{entry.note}}.
       {% endif %}
     </div>
 
