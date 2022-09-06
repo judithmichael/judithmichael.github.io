@@ -29,8 +29,8 @@ They provide critical functionality, or ensure safety in potentially dangerous w
 Research is needed, as most of them are restricted to certain use cases which allows for less reusability.
 We investigate needed context information [MS17],
 modeling languages used during runtime and to support the engineering [MM13],
-[MRV20],
-[MRZ21],
+how to use human behavior goals for MDSE approaches [MRV20] 
+show one possible implementation for using goal models in generated assistive systems [MRZ21],
 and how to automate the engineering of assistive systems.
 Investigated domains are, e.g., financial management [MRZ21], smart homes, or production [Mic22]. 
 
@@ -100,7 +100,7 @@ In: Conceptual Modeling, pp. 377-387, Springer, Oct. 2020.
 - [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. 
 [Model-driven Digital Twin Construction: Synthesizing the Integration of Cyber-Physical Systems with Their 
 Information Systems.](http://www.se-rwth.de/publications/Model-driven-Digital-Twin-Construction-Synthesizing-the-Integration-of-Cyber-Physical-Systems-with-Their-Information-Systems.pdf)
-In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering 
+In: 23rd ACM/IEEE International Conference on Model Driven Engineering 
 Languages and Systems, pages 90-101, October, 2020, ACM.
 
 <p align="center">
@@ -109,7 +109,8 @@ Languages and Systems, pages 90-101, October, 2020, ACM.
 
 ### Model-Based Software Engineering of Information Systems
 Using a small set of models, it is possible to generate large parts of information systems. 
-With MontiGem, the generator framework for information systems [GMN+20], we have created a tool to support such a process in an 
+With MontiGem, the generator framework for information systems [GMN+20], 
+we have created a tool to support such a process in an 
 agile, model-driven way. 
 
 #### Selected Publications
@@ -135,9 +136,9 @@ pages 1-10, August, 2020, Association for Information Systems (AIS).
 </p>
 
 ### Modeling Law
-Domain-specific languages provide means to formulate law and contracts. 
+Domain-specific languages provide means to formulate law and contracts in a computer-understandable way. 
 This allows to verify plans according to contracts [DHH+20],
-and to generate related IT systems from law [RMK+21].
+and to generate related IT systems or specific components from law [RMK+21].
 
 
 #### Selected Publications
@@ -160,10 +161,8 @@ Due to the General Data Protection Regulation (GDPR) organizations are obliged
 to consider privacy throughout the complete development process.
 In our work, we have created privacy preserving information systems and demonstrated it on an IoT manufacturing use
 case [MKM+19],
-we have created an approach for differential privacy for event logs
-[MKB+19]
-and we have shown how MDSE can be used to create privacy-preserving IoT systems
-[MNRV19].
+we have created an approach for differential privacy for event logs [MKB+19],
+and we have shown how MDSE can be used to create privacy-preserving IoT systems [MNRV19].
 
 #### Selected Publications
 
