@@ -23,26 +23,22 @@ social: true  # includes social icons at the bottom of the page
 
 ## About Me
 
-I am a PostDoc and team leader for Model-Based Assistance and Information Services at the chair of 
+I am a PostDoc and team leader at the chair of 
 [Software Engineering](https://www.se-rwth.de/) of Prof. Bernhard Rumpe at 
-[RWTH Aachen University](https://www.rwth-aachen.de/). 
-Since 2016, I am a member of the supervisory board of the 
-[Lakeside Science & Technology Park GmbH](https://www.lakeside-scitec.com/), Austria. 
+[RWTH Aachen University](https://www.rwth-aachen.de/), 
+a member of the supervisory board of the 
+[Lakeside Science & Technology Park GmbH](https://www.lakeside-scitec.com/), Austria (since 2016),
+and a member of the [Executive Committee (Präsidium)](https://gi.de/ueber-uns/leitung/praesidium) 
+of the [German Informatics Society e.V. (GI)](https://gi.de). 
 Before, I was a member of the Application Engineering Research Group of Prof. Heinrich C. Mayr 
 at the Faculty of Technical Sciences at [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) and 
 a member of the supervisory board of the Carinthian Tech Research AG (CTR, Austria), a research center for 
 intelligent sensors. 
-From 2006 on, I have worked in internships, as a project staff member, software engineer, and consultant in 
-Austrian IT-companies.
-
-My research foci are model-driven software engineering and software architectures,
-domain-specific languages and methods, and
-(conceptual) modeling in various domains and applications. 
-Recent work deals with 
-software architectures of assistive and informative systems, 
-modeling digital shadows and digital twins in the production domain, 
-privacy-preserving system design, smart assisted living, 
-the semantic analysis of models, and behavior goal modeling.
-
-Moreover, I am a member of the extended Board of Management of the [German Informatics Society e.V. (GI)](https://gi.de/). In 2015, I 
+In 2015, I 
 have been appointed as a [Junior Fellow](https://gi.de/ueber-uns/personen/junior-fellows) of the GI. 
+
+My [research](/research/) focuses on the engineering of complex, long-lasting, software-intensive systems within various 
+application domains in an integrated approach with different disciplines. 
+I have experience in software language engineering, the engineering of digital twins, 
+and the model-driven software engineering of information and assistive systems. 
+Find more details in my recent [publications](/publications/). 
