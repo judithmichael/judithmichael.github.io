@@ -19,10 +19,10 @@ and [2021](http://ceur-ws.org/Vol-2867/)
 [UNISCON 2012](http://dblp2.uni-trier.de/db/conf/ista/uniscon2012) and 
 [Modellierung 2010](http://dblp1.uni-trier.de/db/conf/modellierung/index).
 
-Besides this, I have been serving in program committees of various conferences and workshops, e.g.,
+Besides this, I am and have been serving in program committees of various conferences and workshops, e.g.,
 the *[Int. Conference on Model Driven Engineering Languages and Systems, MODELS](https://dl.acm.org/conference/models)* Practice and Innovation Track,
 the *[Int. Conference on Conceptual Modeling, ER](https://link.springer.com/conference/er)*, 
-
+the *[Software Engineering and Advanced Applications (Euromicro SEAA)](http://www.wikicfp.com/cfp/program?id=2600&s=SEAA&f=Software%20Engineering%20and%20Advanced%20Applications)* Model-Driven Engineering and Modeling Languages (MDEML) Track (2023),
 the *INFORMATIK* conference series of the German Informatics Society (GI), e.g., 
 the WS [Informatik-Begeisterung 2016](https://dl.gi.de/handle/20.500.12116/993) and the 
 co-located [Studierendenkonferenz Informatik, SKILL](http://skill.gi.de/), 
