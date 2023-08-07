@@ -382,7 +382,7 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: $grey-color-light;
+    color: var(--global-theme-color);
     border-top: 1px solid $grey-color-light;
     padding-top: 1rem;
     margin-top: 2rem;
@@ -418,6 +418,7 @@ footer.sticky-bottom {
       }
       .title {
         font-weight: bolder;
+        text-decoration-line: underline;
       }
       .author {
         a {
