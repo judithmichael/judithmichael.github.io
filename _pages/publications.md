@@ -16,10 +16,10 @@ Please see further publications in my
 [Google scholar](https://scholar.google.com/citations?user=9f-nXdcAAAAJ&hl=de) or 
 [Researchgate](https://www.researchgate.net/profile/Judith_Michael) profile. 
 
-For more [publications](http://www.se-rwth.de/publications/) 
-of the Software Engineering group at RWTH Aachen University, 
-please have a look at the prepared 
-[curated lists of research topics](http://www.se-rwth.de/topics/).
+For more information about the research of the Software Engineering group at RWTH Aachen University, 
+please have a look at 
+* the prepared [curated lists of research topics](http://www.se-rwth.de/topics/), and
+* the full list of [publications](http://www.se-rwth.de/publications/).
 
 My PhD thesis in the Application Engineering group (Prof. Heinrich C. Mayr) at AAU, Austria, was about
 [cognitive modelling for assistive systems](http://netlibrary.aau.at/obvuklhs/content/titleinfo/2410412).
