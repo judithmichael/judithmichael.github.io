@@ -1,1 +1,2 @@
+gem UPDATE --system 3.5.9
 bundle exec jekyll build
