@@ -36,6 +36,12 @@ Investigated domains are, e.g., financial management [MRZ21], smart homes, or pr
 
 #### Selected Publications:
 
+- [MS24] J. Michael, V. Shekhovtsov:
+  [A Model-Based Reference Architecture for Complex Assistive Systems and its Application](https://doi.org/10.1007/s10270-024-01157-1).
+  In: Journal Software and Systems Modeling (SoSyM), Springer, 2024.
+- 
+- [MR23] J. Michael, B. Rumpe: [Software Languages for Assistive Systems](https://dx.doi.org/10.2139/ssrn.4423849), SSRN, 2023. 
+- 
 - [Mic22] J. Michael: [A Vision Towards Generated Assistive Systems for Supporting Human Interactions in Production](https://dx.doi.org/10.18420/modellierung2022ws-019).
 In: Modellierung 2022 Satellite Events, pp. 150–153, Gesellschaft für Informatik e.V., Bonn, 2022.
 
@@ -83,6 +89,26 @@ of IoT systems, and model-driven IoT app stores.
 
 
 #### Selected Publications
+- [BBM+24] F. Bonetti, A. Bucchiarone, J. Michael, A. Cicchetti, A. Marconi, B. Rumpe:
+[Digital Twins of Socio-Technical Ecosystems to Drive Societal Change](https://judithmichael.github.io/downloads/preprints/BBM+24_DTs4SocioTechnicalEcosystems.pdf).
+In: Int. Conf. on Model Driven Engineering Languages and Systems Companion (MODELS-C), ACM/IEEE, 2024.
+
+- [MBD+24] J. Michael, J. Blankenbach, J. Derksen, B. Finklenburg, R. Fuentes, T. Gries, S. Hendiani, S. Herlé, S. Hesseler, M. Kimm, J. Kirchhof, B. Rumpe, H. Schüttrumpf, G. Walther:
+[Integrating models of civil structures in digital twins: State-of-the-Art and challenges](https://doi.org/10.1016/j.iintel.2024.100100).
+In: Journal of Infrastructure Intelligence and Resilience, Volume 3(3), Elsevier, 2024.
+
+- [MSW24] J. Michael, M. Schwammberger, A. Wortmann:
+[Explaining Cyberphysical System Behavior with Digital Twins](http://doi.org/10.1109/MS.2023.3319580).
+In: IEEE Software, Volume 41(1), IEEE, 2024.
+
+- [CJP+23] B. Combemale, J. Jézéquel, Q. Perez, D. Vojtisek, N. Jansen, J. Michael, F. Rademacher, B. Rumpe, A. Wortmann, J. Zhang:
+  [Model-Based DevOps: Foundations and Challenges](https://judithmichael.github.io/assets/pdfs/ModDiT23_Model-Based_DevOps_Vision.pdf).
+  In: Int. Conf. on Model Driven Engineering Languages and Systems Companion (MODELS-C), ACM/IEEE, 2023.
+
+- [HHMR23] M. Heithoff, A. Hellwig, J. Michael, B. Rumpe:
+[Digital Twins for Sustainable Software Systems](https://www.se-rwth.de/publications/Digital-Twins-for-Sustainable-Software-Systems.pdf).
+In: GREENS 2023, IEEE, 2023.
+
 - [BMR+22] D. Bano, J. Michael, B. Rumpe, S. Varga, M. Weske:
   [Process-Aware Digital Twin Cockpit Synthesis from Event Logs](https://www.se-rwth.de/publications/Process-Aware-Digital-Twin-Cockpit-Synthesis-from-Event-Logs.pdf).
   In: Journal of Computer Languages (COLA), Volume 70, Elsevier, 2022.
@@ -93,7 +119,7 @@ of IoT systems, and model-driven IoT app stores.
 
 - [MPRW22] J. Michael, J. Pfeiffer, B. Rumpe, A. Wortmann:
   [Integration Challenges for Digital Twin Systems-of-Systems](https://www.se-rwth.de/publications/Integration-Challenges-for-Digital-Twin-Systems-of-Systems.pdf).
-  In: 10th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems, pp. 9-12, IEEE, May 2022.
+  In: 10th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems, IEEE, 2022.
 
 - [BHK+21] T. Brockhoff, M. Heithoff, I. Koren, J. Michael, J. Pfeiffer, B. Rumpe, M.S. Uysal,
   W. M. P. van der Aalst, A. Wortmann: 
@@ -102,18 +128,17 @@ of IoT systems, and model-driven IoT app stores.
 - [BBD+21] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger,
   J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann:
   [A conceptual model for digital shadows in industry and its application.](https://link.springer.com/chapter/10.1007/978-3-030-89022-3_22) 
-  In: Conceptual Modeling. 
-  ER 2021, LNCS 13011, pages 271-281, October, 2021, Springer. 
+  In: Conceptual Modeling (ER'21), LNCS 13011, Springer, 2021. 
 
 - [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann: 
 [Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits.](https://www.se-rwth.de/publications/Towards-a-Model-Driven-Architecture-for-Interactive-Digital-Twin-Cockpits.pdf)
-In: Conceptual Modeling, pp. 377-387, Springer, Oct. 2020.
+In: Conceptual Modeling, Springer, 2020.
 
 - [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. 
 [Model-driven Digital Twin Construction: Synthesizing the Integration of Cyber-Physical Systems with Their 
 Information Systems.](http://www.se-rwth.de/publications/Model-driven-Digital-Twin-Construction-Synthesizing-the-Integration-of-Cyber-Physical-Systems-with-Their-Information-Systems.pdf)
 In: 23rd ACM/IEEE International Conference on Model Driven Engineering 
-Languages and Systems, pages 90-101, October, 2020, ACM.
+Languages and Systems, ACM, 2020.
 
 <p align="center">
    <img src="{{ '/assets/img/balken_mbseis.png' | relative_url }}" width = "100%" alt="" title="MBSE of Information Systems">
@@ -126,6 +151,14 @@ we have created a tool to support such a process in an
 agile, model-driven way. 
 
 #### Selected Publications
+
+- [BGK+24] C. Buschhaus, A. Gerasimov, J. Kirchhof, J. Michael, L. Netz, B. Rumpe, S. Stüber:
+[Lessons learned from applying model-driven engineering in 5 domains: The success story of the MontiGem generator framework](https://www.se-rwth.de/publications/Lessons-learned-from-applying-model-driven-engineering-in-5-domains-The-success-story-of-the-MontiGem-generator-framework.pdf).
+In: Journal Science of Computer Programming, Volume 232, Elsevier, 2024.
+
+- [GLM+24] A. Gerasimov, P. Letmathe, J. Michael, L. Netz, B. Rumpe:
+[Modeling Financial, Project and Staff Management: A Case Report from the MaCoCo Project](https://www.emisa-journal.org/emisa/article/view/298).
+In: Enterprise Modelling and Information Systems Architectures - International Journal of Conceptual Modeling, Volume 19, GI, 2024.
 
 - [DGM+21] I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga:
   [A Methodology for Retrofitting Generative Aspects in Existing Applications](http://www.jot.fm/issues/issue_2021_02/article7.pdf).
