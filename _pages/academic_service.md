@@ -9,7 +9,7 @@ nav: false
 Conferences and workshops are important for science to promote professional discourse and critical discussions. 
 We are happy to contribute to the organization of these events. To mention some:
 
-- General and PC Chair of [EDTconf 2024](https://conf.researchr.org/home/edtconf-2024)
+- General and PC Chair of [EDTconf 2024](https://conf.researchr.org/home/edtconf-2024) and Chair of the EDTconf series Steering Committee (since 2024)
 - PC Chair of [ECMFA 2024](http://www.wikicfp.com/cfp/program?id=813&f=European) and [Modellierung 2024](https://bpt.hpi.uni-potsdam.de/modellierung2024/)
 - Workshop Chair of [SE 2022](https://www.se-2022.de/) and [Modellierung 2022](https://qfam.gi.de/modellierung2022)
 - Organizer of the Workshop on Modeling in (and for) Production 
@@ -22,10 +22,10 @@ and [2021](http://ceur-ws.org/Vol-2867/)
 [Modellierung 2010](http://dblp1.uni-trier.de/db/conf/modellierung/index).
 
 Besides this, I have been serving on program committees of various conferences and workshops, e.g.,
-the *[Int. Conference on Model Driven Engineering Languages and Systems, MODELS](https://dl.acm.org/conference/models)*,
-the *[Int. Conference on Conceptual Modeling, ER](https://link.springer.com/conference/er)*, 
-the *[ACM SIGPLAN Int. Conference on Software Language Engineering](http://www.sleconf.org/)*,
-the *[ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences](https://conf.researchr.org/series/gpce)*,
+the *[Int. Conference on Model Driven Engineering Languages and Systems (MODELS)](https://dl.acm.org/conference/models)*,
+the *[Int. Conference on Conceptual Modeling (ER)](https://link.springer.com/conference/er)*, 
+the *[ACM SIGPLAN Int. Conference on Software Language Engineering (SLE)](http://www.sleconf.org/)*,
+the *[ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences (GPCE)](https://conf.researchr.org/series/gpce)*,
 the *[Software Engineering and Advanced Applications (Euromicro SEAA)](http://www.wikicfp.com/cfp/program?id=2600&s=SEAA&f=Software%20Engineering%20and%20Advanced%20Applications)* Model-Driven Engineering and Modeling Languages (MDEML) Track (2023),
 the *INFORMATIK* conference series of the German Informatics Society (GI), e.g., 
 the WS [Informatik-Begeisterung 2016](https://dl.gi.de/handle/20.500.12116/993) and the 
