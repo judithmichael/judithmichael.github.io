@@ -7,12 +7,13 @@ nav: true
 order: 4
 ---
 
-My research focus are (conceptual) models in a variety of domains and applications. 
+My research focuses on the engineering of complex, long-lasting, software-intensive systems 
+within various application domains in an integrated approach with different disciplines. 
 We develop domain-specific languages (DSLs) and methods for 
 domains such as Ambient Assisted Living, Controlling and Finances, Energy, Health, 
 Manufacturing, Internet of Things (IoT), or Smart Homes. 
 The models created with such languages can be used to develop information systems, 
-assistive systems and services and digital twins
+assistive systems, and digital twins
 in an agile model-based way using generators for code synthesis.
 This website presents selected research topics and related publications.
 The full list of publications is available on the [publications](../publications) page.
@@ -71,10 +72,11 @@ In: Conceptual Modeling - ER 2013, LNCS 8217, pages 403-413, 2013, Springer.
 </p>
 
 ### Digital Twins & Digital Shadows
-In our understanding, a digital twin consists of a set of models of the system,
+In our understanding, a digital twin of an original system is a software that 
+consists of a set of models of the system,
 a set of digital shadows [BBD+21], and provides a set of services to use the data and models
-purposefully with respects to the original system
-(original definition:[DMR+20], Version 2.0 in [HHMR23]).
+purposefully with respect to the original system
+(original definition:[DMR+20], Version 2.0 in [HHMR23], Version 2.2 [here](https://www.se-rwth.de/essay/Digital-Twin-Definition/)).
 
 For DT engineering, software and systems models can be used to support
 the design process, construction, operation, and end-of-life of related physical objects. Our main use
@@ -147,8 +149,7 @@ Languages and Systems, ACM, 2020.
 ### Model-Based Software Engineering of Information Systems
 Using a small set of models, it is possible to generate large parts of information systems. 
 With MontiGem, the generator framework for information systems [GMN+20], 
-we have created a tool to support such a process in an 
-agile, model-driven way. 
+we have created a tool to support such a process in an agile, model-driven way. 
 
 #### Selected Publications
 
@@ -162,7 +163,7 @@ In: Enterprise Modelling and Information Systems Architectures - International J
 
 - [DGM+21] I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga:
   [A Methodology for Retrofitting Generative Aspects in Existing Applications](http://www.jot.fm/issues/issue_2021_02/article7.pdf).
-  In: Journal of Object Technology, Volume 20, no. 2 , pages 1-24, November, 2021,
+  In: Journal of Object Technology, Volume 20, no. 2, November, 2021,
   AITO - Association Internationale pour les Technologies Objets. 
 
 - [GMNR21] A. Gerasimov, J. Michael, L. Netz, B. Rumpe. 
@@ -204,7 +205,7 @@ February, 2020, Gesellschaft für Informatik e.V.
 ### Privacy
 Due to the General Data Protection Regulation (GDPR) organizations are obliged
 to consider privacy throughout the complete development process.
-In our work, we have created privacy preserving information systems and demonstrated it on an IoT manufacturing use
+In our work, we have created privacy-preserving information systems and demonstrated it on an IoT manufacturing use
 case [MKM+19],
 we have created an approach for differential privacy for event logs [MKB+19],
 and we have shown how MDSE can be used to create privacy-preserving IoT systems [MNRV19].
