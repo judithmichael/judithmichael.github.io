@@ -7,7 +7,7 @@ order: 1
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: JudithMichael_24_2.jpg
   address: >
     <p>&nbsp;</p>
     <p>Software Engineering</p>
@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 ## About Me
 
 I am a PostDoc and team leader at the chair of 
-[Software Engineering](https://www.se-rwth.de/) of Prof. Bernhard Rumpe at 
+[Software Engineering](https://www.se-rwth.de/) at 
 [RWTH Aachen University](https://www.rwth-aachen.de/), 
 a member of the supervisory board of the 
 [Lakeside Science & Technology Park GmbH](https://www.lakeside-scitec.com/), Austria (since 2016),
@@ -34,6 +34,8 @@ Before, I was a member of the Application Engineering Research Group of Prof. He
 at the Faculty of Technical Sciences at [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) and 
 a member of the supervisory board of the Carinthian Tech Research AG (CTR, Austria), a research center for 
 intelligent sensors. 
+My Habilitation at RWTH Aachen University (2024) was about model-driven engineering of 
+digital twins with informative and assistive services.
 In 2015, I 
 have been appointed as a [Junior Fellow](https://gi.de/ueber-uns/personen/junior-fellows) of the GI. 
 
