@@ -22,14 +22,23 @@ adequate and context-aware data from production, development, and usage in real-
 on an adequate level of granularity.
 
 #### Selected Publications:
+- [KJM+24] I. Koren, M. Jarke, J. Michael, M. Heithoff, L. Tacke Genannt Unterberg, M. Stachon, B. Rumpe, 
+W. M. P. van der Aalst:
+[Navigating the Data Model Divide in Smart Manufacturing: An Empirical Investigation for Enhanced AI Integration](http://www.se-rwth.de/publications/Navigating-the-Data-Model-Divide-in-Smart-Manufacturing-An-Empirical-Investigation-for-Enhanced-AI-Integration.pdf).
+In: Enterprise, Business-Process and Information Systems Modeling, H. van der Aa, D. Bork, R. Schmidt, A. Sturm (Eds.), 
+pp. 275–290, Springer Nature Switzerland, May 2024.
 
-- [MW21] J. Michael, and A. Wortmann.
-[Towards Development Platforms for Digital Twins: A Model-Driven Low-Code Approach.](http://www.se-rwth.de/publications/Towards-Development-Platforms-for-Digital-Twins-A-Model-Driven-Low-Code-Approach)
-In: Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems,
-pages 333-341, September, 2021, Springer International Publishing.
+- [MKD+23] J. Michael, I. Koren, I. Dimitriadis, J. Fulterer, A. Gannouni, M. Heithoff, A. Hermann, K. Hornberg, M. Kröger, P. Sapel, N. Schäfer, J. Theissen-Lipp, S. Decker, C. Hopmann, M. Jarke, B. Rumpe, R. H. Schmitt, G. Schuh:
+[A Digital Shadow Reference Model for Worldwide Production Labs](http://www.se-rwth.de/publications/A-Digital-Shadow-Reference-Model-for-Worldwide-Production-Labs.pdf).
+In: Internet of Production: Fundamentals, Applications and Proceedings, 
+C. Brecher, G. Schuh, W. van der Aalst, M. Jarke, F. T. Piller, M. Padberg (Eds.), pp. 1–28, Springer, Jun. 2023.
+
+- [DHM+22] M. Dalibor, M. Heithoff, J. Michael, L. Netz, J. Pfeiffer, B. Rumpe, S. Varga, A. Wortmann:
+  [Generating Customized Low-Code Development Platforms for Digital Twins](http://www.se-rwth.de/publications/Generating-Customized-Low-Code-Development-Platforms-for-Digital-Twins.pdf).
+  In: Journal of Computer Languages (COLA), Volume 70, Art. 101117, Elsevier, Jun. 2022.
 
 - [BHK+21] T. Brockhoff, M. Heithoff, I. Koren, J. Michael, J. Pfeiffer, B. Rumpe, M.S. Uysal,
-  W. M. P. van der Aalst, A. Wortmann: Process Prediction with Digital Twins. Models@runtime’21 (MODELS’21)
+  W. M. P. van der Aalst, A. Wortmann: [Process Prediction with Digital Twins](http://www.se-rwth.de/publications/Process-Prediction-with-Digital-Twins.pdf). Models@runtime’21 (MODELS’21)
 
 - [BBD+21] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger,
   J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann:

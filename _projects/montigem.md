@@ -37,6 +37,11 @@ or a platform for improving the
 understandablity of privacy policies of smart watches within the [InviDas](../invidas) project.
 
 #### Selected publications
+- [BGK+24] C. Buschhaus, A. Gerasimov, J. Kirchhof, J. Michael, L. Netz, B. Rumpe, S. Stüber:
+  [Lessons learned from applying model-driven engineering in 5 domains: The success story of the MontiGem
+  generator framework](https://www.se-rwth.de/publications/Lessons-learned-from-applying-model-driven-engineering-in-5-domains-The-success-story-of-the-MontiGem-generator-framework.pdf).
+  In: Journal Science of Computer Programming, Volume 232, pp. 103033, Elsevier, Jan. 2024.
+  DOI: 10.1016/j.scico.2023.103033
 
 - [DGM+21] I. Drave, A. Gerasimov, J. Michael, L. Netz, B. Rumpe, S. Varga:
   [A Methodology for Retrofitting Generative Aspects in Existing Applications](http://www.jot.fm/issues/issue_2021_02/article7.pdf).

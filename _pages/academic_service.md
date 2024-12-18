@@ -9,6 +9,9 @@ nav: false
 Conferences and workshops are important for science to promote professional discourse and critical discussions. 
 We are happy to contribute to the organization of these events. To mention some:
 
+<img style = "padding-left: 10px;" src="{{ '/assets/img/EDTconf24.png' | relative_url }}" width = "35%" alt="" title="EDTconf 24" align="right">
+
+
 - General and PC Chair of [EDTconf 2024](https://conf.researchr.org/home/edtconf-2024) and Chair of the EDTconf series Steering Committee (since 2024)
 - PC Chair of [ECMFA 2024](http://www.wikicfp.com/cfp/program?id=813&f=European) and [Modellierung 2024](https://bpt.hpi.uni-potsdam.de/modellierung2024/)
 - Workshop Chair of [SE 2022](https://www.se-2022.de/) and [Modellierung 2022](https://qfam.gi.de/modellierung2022)

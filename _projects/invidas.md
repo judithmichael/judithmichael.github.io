@@ -26,9 +26,16 @@ and Ergonomics and Applied Ethics), Universität Bremen and Otto-Friedrich Unive
 The project is funded by the BMBF. For more information have a look at the [project website](https://invidas.gi.de/)
 
 
-#### Publications:
-- [BCC+22] Butting, A., Conradie, N., Croll, J., Fehler, M., Gruber, C., Herrmann, D., Mertens, A., Michael, J., 
-Nitsch, V., Nagel, S., Pütz, S., Rumpe, B., Schauermann, E., Schöning, J., Stellmacher, C., Theis, S.: 
-Souveräne digitalrechtliche Entscheidungsfindung hinsichtlich der Datenpreisgabe bei der Nutzung von Wearables. 
-In: Selbstbestimmung und Privatheit. Forum Privatheit 2020, DUD Fachbeiträge, Springer, 2022.
+#### Some Publications:
+- [BBM+23] Buschhaus, C., Butting, A., Michael, J., Nitsch, V., Pütz, S., Rumpe, B., Stellmacher, C., Theis, S.:
+  [Overcoming the Hurdle of Legal Expertise: A Reusable Model for Smartwatch Privacy Policies](https://dx.doi.org/10.2139/ssrn.4701295). SSRN, 2024.
+  DOI: 10.2139/ssrn.4701295
 
+- [SGC+23]  Schauermann, E., Gruber, C., Croll, J., Arend, M., Pütz, S., Nitzsch, V., Stellmacher, C., Buschhaus, C., 
+Butting, A., Hillemacher, S., Michael, J., Rumpe, B., Conradie, N., Nagel, S., Gundelach, R., Herrmann, D.,
+Fehler, M., Angenvoort, J.: [Wearables und individuelle digitale Souveränität](https://invidas.gi.de/meldung/abschlusspublikation). GI, 2023. DOI: 10.18420/0324_3401
+
+- [BCC+22] Butting, A., Conradie, N., Croll, J., Fehler, M., Gruber, C., Herrmann, D., Mertens, A., Michael, J.,
+  Nitsch, V., Nagel, S., Pütz, S., Rumpe, B., Schauermann, E., Schöning, J., Stellmacher, C., Theis, S.:
+  [Souveräne digitalrechtliche Entscheidungsfindung hinsichtlich der Datenpreisgabe bei der Nutzung von Wearables](https://www.se-rwth.de/publications/Souveraene-digitalrechtliche-Entscheidungsfindung-hinsichtlich-der-Datenpreisgabe-bei-der-Nutzung-von-Wearables.pdf).
+  In: Selbstbestimmung und Privatheit. Forum Privatheit 2020, DUD Fachbeiträge, Springer, 2022.

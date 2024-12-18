@@ -40,9 +40,9 @@ Investigated domains are, e.g., financial management [MRZ21], smart homes, or pr
 - [MS24] J. Michael, V. Shekhovtsov:
   [A Model-Based Reference Architecture for Complex Assistive Systems and its Application](https://doi.org/10.1007/s10270-024-01157-1).
   In: Journal Software and Systems Modeling (SoSyM), Springer, 2024.
-- 
+
 - [MR23] J. Michael, B. Rumpe: [Software Languages for Assistive Systems](https://dx.doi.org/10.2139/ssrn.4423849), SSRN, 2023. 
-- 
+
 - [Mic22] J. Michael: [A Vision Towards Generated Assistive Systems for Supporting Human Interactions in Production](https://dx.doi.org/10.18420/modellierung2022ws-019).
 In: Modellierung 2022 Satellite Events, pp. 150–153, Gesellschaft für Informatik e.V., Bonn, 2022.
 

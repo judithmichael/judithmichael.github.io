@@ -27,6 +27,12 @@ Lead users are involved actively in the development process to be able to provid
 
 
 #### Publications:
+- [BGK+24] C. Buschhaus, A. Gerasimov, J. Kirchhof, J. Michael, L. Netz, B. Rumpe, S. Stüber:
+  [Lessons learned from applying model-driven engineering in 5 domains: The success story of the MontiGem 
+generator framework](https://www.se-rwth.de/publications/Lessons-learned-from-applying-model-driven-engineering-in-5-domains-The-success-story-of-the-MontiGem-generator-framework.pdf).
+  In: Journal Science of Computer Programming, Volume 232, pp. 103033, Elsevier, Jan. 2024. 
+  DOI: 10.1016/j.scico.2023.103033
+
 - [GHK+20] A. Gerasimov, P. Heuser, H. Ketteniß, P. Letmathe, J. Michael, L. Netz, B. Rumpe, S. Varga:
   [Generated Enterprise Information Systems: MDSE for Maintainable Co-Development of Frontend and Backend.](https://www.se-rwth.de/publications/Generated-Enterprise-Information-Systems-MDSE-for-Maintainable-Co-Development-of-Frontend-and-Backend.pdf)
   In: J. Michael, D. Bork, editors, Companion Proceedings of Modellierung 2020, Vienna, pp. 22-30, CEUR Workshop Proceedings, Feb. 2020.
