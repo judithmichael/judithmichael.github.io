@@ -16,16 +16,16 @@ Please see further publications in my
 [Google scholar](https://scholar.google.com/citations?user=9f-nXdcAAAAJ&hl=de) or 
 [Researchgate](https://www.researchgate.net/profile/Judith_Michael) profile. 
 
-My Habilitation thesis at RWTH Aachen University was about Model-Driven Engineering of Digital
-Twins with Informative and Assistive Services. 
+* My **Habilitation thesis** at *RWTH Aachen University, Germany* was about "Model-Driven Engineering of Digital
+  Twins with Informative and Assistive Services" (preprint available soon).
+* My **PhD thesis** in the Application Engineering group (Prof. Heinrich C. Mayr) at 
+ *Alpen-Adria Universität Klagenfurt, Austria*, was about
+  [cognitive modelling for assistive systems](http://netlibrary.aau.at/obvuklhs/content/titleinfo/2410412).
 
 For more information about the research of the Software Engineering group at RWTH Aachen University, 
 please have a look at 
 * the prepared [curated lists of research topics](http://www.se-rwth.de/topics/), and
 * the full list of [publications](http://www.se-rwth.de/publications/).
-
-My PhD thesis in the Application Engineering group (Prof. Heinrich C. Mayr) at AAU, Austria, was about
-[cognitive modelling for assistive systems](http://netlibrary.aau.at/obvuklhs/content/titleinfo/2410412).
 
 <div class="publications">
 
