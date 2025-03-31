@@ -29,7 +29,7 @@ a member of the supervisory board of the
 and a member of the [Executive Committee (Präsidium)](https://gi.de/ueber-uns/leitung/praesidium) 
 of the [German Informatics Society e.V. (GI)](https://gi.de). 
 From 2018-2025, I was a PostDoc and team leader at the chair of 
-[Software Engineering](https://www.se-rwth.de/) at 
+[Software Engineering](https://www.se-rwth.de/) of Prof. Bernhard Rumpe at 
 [RWTH Aachen University](https://www.rwth-aachen.de/), from 2011-2017 a member of the Application Engineering Research Group of Prof. Heinrich C. Mayr 
 at the Faculty of Technical Sciences at [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) and 
 a member of the supervisory board of the Carinthian Tech Research AG (CTR, Austria), a research center for 
