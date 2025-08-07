@@ -24,9 +24,9 @@ Covered topics are development process models, requirements elicitation, softwar
 well as the implementation, generation, and quality assurance with tests. 
 The lecture uses primarily the modeling language UML.
 
-- [Winter 24/25](https://www.se-rwth.de/teaching/ws2425/swt/)
-- [Winter 20/21](https://www.se-rwth.de/teaching/ws2021/swt/)
-- [Winter 19/20](https://www.se-rwth.de/teaching/ws1920/swt/)
+- [Winter 24/25](https://www.se-rwth.de/teaching/ws2425/swt/) (RWTH Aachen)
+- [Winter 20/21](https://www.se-rwth.de/teaching/ws2021/swt/) (RWTH Aachen)
+- [Winter 19/20](https://www.se-rwth.de/teaching/ws1920/swt/) (RWTH Aachen)
 
 #### Digitalization
 The lecture "Digitalization" explores and discusses digitalization from different perspectives of informatics: 
@@ -37,7 +37,7 @@ Furthermore, lecturers from industry discuss current developments that are advan
 of their economic sector and provide practical examples. This includes domains such as automotive, automation, health, 
 production or public Infrastructure. 
 
-- [Summer 19](http://www.se-rwth.de/teaching/ss19/digitalisation/)
+- [Summer 19](http://www.se-rwth.de/teaching/ss19/digitalisation/) (RWTH Aachen)
 
 #### Assistive Systems
 Ambient Assistance denotes the ICT-based contact-free, autonomous, and unobtrusive support of persons in a given life 
@@ -47,8 +47,8 @@ rendering support information in a form adapted to the situation.
 The lecture for the Master Computer Science introduces the methods and techniques that have been developed 
 for these purposes, sketches the current state-of-the-art, and increases the understanding of the participants by project work.
 
-- Current Topics in Application Engineering: Ambient Assistance
-- Current Topics in Application Engineering: Ambient Assisted Living
+- Current Topics in Application Engineering: Ambient Assistance (Alpen-Adria Universität Klagenfurt)
+- Current Topics in Application Engineering: Ambient Assisted Living (Alpen-Adria Universität Klagenfurt)
 
 #### Current Topics in Business Information Systems
 In contrast to general-purpose languages, domain-specific languages (DSLs) can be tailored for specific needs. 
@@ -58,15 +58,13 @@ behavior modeling with BPMN, workflow systems, and system architectures that are
 Moreover, we have shown example languages from the ambient assistance domain and students created their own DSLs.
 
 #### Ringvorlesung: Frauen - Männer - Wirtschaft
-The interdisciplinary lecture series (2012/13) deals with gender role-typical behavior and the relationships between and within 
-the genders in business. The aim was to raise awareness for gender-specific differences on the one hand, but also for 
-existing unobjective differentiation between the genders. 
+The interdisciplinary lecture series (2012/13) at Alpen-Adria Universität Klagenfurt deals with gender role-typical behavior and the relationships between and within 
+the genders in business. The aim was to raise awareness for gender-specific differences on the one hand, but also for existing unobjective differentiation between the genders. 
 The focus was not only on women but also on men with their changed role requirements. 
-Within this lecture series women - man - economy, my focus was on gender specifics in the engineering 
-and use of IT systems. 
+Within this lecture series women - man - economy, my focus was on gender specifics in the engineering and use of IT systems. 
 
 ## Exercises 
-Exercises accompany lectures within the Bachelor and Master programs.
+Exercises accompany lectures within the Bachelor and Master programs at Alpen-Adria Universität Klagenfurt.
 
 - Software Language Engineering, [Summer 18](https://www.se-rwth.de/teaching/ss18/sle/)
 - Datenbanken
@@ -78,14 +76,14 @@ Exercises accompany lectures within the Bachelor and Master programs.
 
 
 ## Seminars 
-- [Architectures of Assistive Systems](https://www.se-rwth.de/teaching/ss20/seminar/architecture/)
-- [Generated Information Systems](https://www.se-rwth.de/teaching/ws1920/seminar/GIS/)
-- [Model-Based Assistance & E-Health](http://www.se-rwth.de/teaching/ss19/seminar/MBAss-EH/)
-- [Software Engineering Seminar: Theory of Model Driven Engineering](http://www.se-rwth.de/teaching/ws1819/seminar/semdiff/)
-- [Selected Topics in Software Engineering](http://www.se-rwth.de/teaching/ss18/seminar/)
-- Business Information Systems
-- Angewandte Informatik
-- Application Engineering
+- [Architectures of Assistive Systems](https://www.se-rwth.de/teaching/ss20/seminar/architecture/) (RWTH Aachen)
+- [Generated Information Systems](https://www.se-rwth.de/teaching/ws1920/seminar/GIS/) (RWTH Aachen)
+- [Model-Based Assistance & E-Health](http://www.se-rwth.de/teaching/ss19/seminar/MBAss-EH/) (RWTH Aachen)
+- [Software Engineering Seminar: Theory of Model Driven Engineering](http://www.se-rwth.de/teaching/ws1819/seminar/semdiff/) (RWTH Aachen)
+- [Selected Topics in Software Engineering](http://www.se-rwth.de/teaching/ss18/seminar/) (RWTH Aachen)
+- Business Information Systems (Alpen-Adria Universität Klagenfurt)
+- Angewandte Informatik (Alpen-Adria Universität Klagenfurt)
+- Application Engineering (Alpen-Adria Universität Klagenfurt)
 
 ## Bachelor and Master Theses
 I am supervising various Bachelor's and Master's theses related to modeling, DSLs, information systems, 
