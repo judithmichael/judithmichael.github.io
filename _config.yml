@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Judith
 middle_name: 
 last_name: Michael
-email: michael@se-rwth.de
+email: judith.michael@ur.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The website of Judith Michael.
 footer_text: >
@@ -59,7 +59,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: Judith_Michael # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.se-rwth.de # work page URL
+work_url: https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/programmierung-und-software-engineering # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/27/10220.html # your DBLP profile url
