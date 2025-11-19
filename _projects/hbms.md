@@ -2,7 +2,7 @@
 layout: page
 title: Human Behavior Monitoring and Support (HBMS) 
 img: /assets/img/hbms.jpg
-importance: 6
+importance: 8
 ---
 
 At Alpen-Adria-Universität Klagenfurt, I have been a team member of the
