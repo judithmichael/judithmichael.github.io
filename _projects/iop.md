@@ -3,7 +3,7 @@ layout: page
 title: Internet of Production (IoP)
 description: 
 img: /assets/img/iop.png
-importance: 3
+importance: 2
 ---
 
 The Internet – in its meaning of a worldwide socio-technical network – has revolutionized accessibility of data and 
