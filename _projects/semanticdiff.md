@@ -3,7 +3,7 @@ layout: page
 title: A Semantic Approach to Evolution Analysis in MBSE (SemanticDiff) 
 description: 
 img: /assets/img/semdiff.jpg
-importance: 4
+importance: 7
 ---
 
 The semantic difference from one model to another model contains the elements in the semantics of the former model 
