@@ -12,10 +12,11 @@ We are happy to contribute to the organization of these events. To mention some:
 <img style = "padding-left: 10px;" src="{{ '/assets/img/EDTconf24.png' | relative_url }}" width = "30%" alt="" title="EDTconf 24" align="right">
 
 
-- General and PC Chair of [EDTconf 2024](https://conf.researchr.org/home/edtconf-2024) and Chair of the EDTconf series Steering Committee (since 2024)
+- Steering Committee Chair of the [EDTconf series](https://www.edtconf.org) (since 2024)
+- General and PC Chair of [EDTconf 2024](https://conf.researchr.org/home/edtconf-2024)- 
 - PC Chair of [ECMFA 2024](http://www.wikicfp.com/cfp/program?id=813&f=European) and [Modellierung 2024](https://bpt.hpi.uni-potsdam.de/modellierung2024/)
-- Workshop Chair of [SE 2022](https://www.se-2022.de/) and [Modellierung 2022](https://qfam.gi.de/modellierung2022)
-- Organizer of the Workshop on Modeling in (and for) Production 
+- Workshop Chair of [MODELS 2026](https://conf.researchr.org/track/models-2026/models-2026-workshops), [SE 2022](https://www.se-2022.de/) and [Modellierung 2022](https://qfam.gi.de/modellierung2022)
+- Co-Organizer of the [DTwiSE workshop at ICSE 2027](https://conf.researchr.org/home/icse-2027/dtwise-2027), the Workshop on Modeling in (and for) Production 
 [MoPro'2022](https://judithmichael.github.io/mopro22) and 
 the [1st Int. Workshop on Sustainability and Modeling (SusMod)](https://sustainability-and-modeling.github.io/) 2024
 - PC Chair of [EMISA 2020](http://ceur-ws.org/Vol-2628/) 
