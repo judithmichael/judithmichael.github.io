@@ -23,15 +23,15 @@ social: true  # includes social icons at the bottom of the page
 
 ## About Me
 
-I am a full professor of Programming and Software Engineering at the University of Regensburg (Bavaria, Germany), 
-a member of the supervisory board of the 
-[Lakeside Science & Technology Park GmbH](https://www.lakeside-scitec.com/), Austria (since 2016),
-and a member of the [Executive Committee (Präsidium)](https://gi.de/ueber-uns/leitung/praesidium) 
-of the [German Informatics Society e.V. (GI)](https://gi.de). 
+I am a full professor of Programming and Software Engineering at the University of Regensburg (Bavaria, Germany). 
 From 2018-2025, I was a PostDoc and team leader at the chair of 
 [Software Engineering](https://www.se-rwth.de/) of Prof. Bernhard Rumpe at 
-[RWTH Aachen University](https://www.rwth-aachen.de/), from 2011-2017 a member of the Application Engineering Research Group of Prof. Heinrich C. Mayr 
-at the Faculty of Technical Sciences at [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) and 
+[RWTH Aachen University](https://www.rwth-aachen.de/), and from 2011-2017 a member of the Application Engineering Research Group of Prof. Heinrich C. Mayr 
+at the Faculty of Technical Sciences at [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/). 
+I was a member of the supervisory board of the 
+[Lakeside Science & Technology Park GmbH](https://www.lakeside-scitec.com/), Austria (since 2016-2026),
+and a member of the [Executive Committee (Präsidium)](https://gi.de/ueber-uns/leitung/praesidium) 
+of the [German Informatics Society e.V. (GI)](https://gi.de) (2020-2025), and 
 a member of the supervisory board of the Carinthian Tech Research AG (CTR, Austria), a research center for 
 intelligent sensors. 
 My Habilitation at RWTH Aachen University (2024) was about model-driven engineering of 
