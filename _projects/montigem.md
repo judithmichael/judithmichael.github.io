@@ -3,7 +3,7 @@ layout: page
 title: The generator framework MontiGem 
 description: 
 img: /assets/img/montigem.png
-importance: 3
+importance: 80
 ---
 
 The MontiGem framework allows developers to generate large parts of a web application for a domain specific 
