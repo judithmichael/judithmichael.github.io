@@ -2,7 +2,7 @@
 layout: page
 title: AI Literacy for Multidisciplinary Professional Readiness and Outreach (AIM-PRO) 
 img: /assets/img/aim-pro.png
-importance: 10
+importance: 69
 ---
 
 The goal of the [AIM-PRO project](https://aim-pro.eu/) is to develop integrated methods to improve the education of AI literacy. 
