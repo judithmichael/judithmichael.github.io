@@ -25,6 +25,12 @@ on an adequate level of granularity.
 - [HTM+25] M. Heithoff, M. Trinh, J. Michael, B. Rumpe, C. Brecher: [A Digital Shadow for Accurate Robot Motion Control: Integrating Data with Friction Models](http://doi.org/10.5283/epub.77667).
 In: Int. Conf. on Engineering Digital Twins (EDTconf’25), pp. 113-124, IEEE, Oct. 2025. DOI: 10.1109/MODELS-C68889.2025.00026
 
+- [HHK+25] M. Heithoff, C. Hopmann, T. Köbel, J. Michael, B. Rumpe, P. Sapel: [Application of Digital Shadows on Different Levels in the Automation Pyramid](https://doi.org/10.1016/j.datak.2025.102442).
+In: Data and Knowledge Engineering (DKE), Volume 158, pp. 102442, Elsevier, Jul. 2025. DOI: 10.1016/j.datak.2025.102442
+
+- [ZEH+25] J. Zhang, C. Ellwein, M. Heithoff, J. Michael, A. Wortmann: [Digital Twin and the Asset Administration Shell: An Analysis of 3 AASs Types and their Feasibility for Digital Twin Engineering](https://judithmichael.github.io/downloads/preprints/ZEH+25_SoSyM_DigitalTwin_and_the_AssetAdministrationShell.pdf).
+In: Journal Software and Systems Modeling (SoSyM), Volume 24, pp. 771-–793, Springer, Jun. 2025. DOI: 10.1007/s10270-024-01255-0
+
 - [KJM+24] I. Koren, M. Jarke, J. Michael, M. Heithoff, L. Tacke Genannt Unterberg, M. Stachon, B. Rumpe, 
 W. M. P. van der Aalst:
 [Navigating the Data Model Divide in Smart Manufacturing: An Empirical Investigation for Enhanced AI Integration](http://www.se-rwth.de/publications/Navigating-the-Data-Model-Divide-in-Smart-Manufacturing-An-Empirical-Investigation-for-Enhanced-AI-Integration.pdf).
