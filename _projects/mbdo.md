@@ -4,7 +4,7 @@ title: Model-Based DevOps (MBDO)
 description: 
 img: /assets/img/mbdo.png
 redirect: 
-importance: 1
+importance: 77
 ---
 
 ### Model-Based DevOps (MBDO)
