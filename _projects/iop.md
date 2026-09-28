@@ -22,6 +22,9 @@ adequate and context-aware data from production, development, and usage in real-
 on an adequate level of granularity.
 
 #### Selected Publications:
+- [HTM+25] M. Heithoff, M. Trinh, J. Michael, B. Rumpe, C. Brecher: [A Digital Shadow for Accurate Robot Motion Control: Integrating Data with Friction Models](http://doi.org/10.5283/epub.77667).
+In: Int. Conf. on Engineering Digital Twins (EDTconf’25), pp. 113-124, IEEE, Oct. 2025. DOI: 10.1109/MODELS-C68889.2025.00026
+
 - [KJM+24] I. Koren, M. Jarke, J. Michael, M. Heithoff, L. Tacke Genannt Unterberg, M. Stachon, B. Rumpe, 
 W. M. P. van der Aalst:
 [Navigating the Data Model Divide in Smart Manufacturing: An Empirical Investigation for Enhanced AI Integration](http://www.se-rwth.de/publications/Navigating-the-Data-Model-Divide-in-Smart-Manufacturing-An-Empirical-Investigation-for-Enhanced-AI-Integration.pdf).
