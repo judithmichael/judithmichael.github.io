@@ -4,7 +4,7 @@ title: Improving Digital Sovereignty (InviDas)
 description: 
 img: /assets/img/invidas.jpg
 redirect: 
-importance: 4
+importance: 92
 ---
 
 ### Interaktive, visuelle Datenräume zur souveränen, datenschutzrechtlichen Entscheidungsfindung (InviDas)
