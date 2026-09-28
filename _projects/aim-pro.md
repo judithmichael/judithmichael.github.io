@@ -19,5 +19,5 @@ AIM-PRO is funded by the Erasmus+ Alliance for Innovation.
 For more have a look on my [publications](../publications) page.
 
 - [BBD+26] R. Belliato, A. Bucchiarone, J. Di Rocco, A. Pierantonio, A. Cicchetti, J. Michael, M. Mittermaier, A. Vázquez Ingelmo, J. Tondeur, T. Cromphaut, S. Howard:
-A Pedagogy-Aware Model-Driven Engineering Approach for AI Literacy. In: MODELS Companion ’26: Int. Conf. on Model Driven Engineering Languages and Systems, ACM, Oct. 2026. DOI: 10.1145/3837062.3838920
+[A Pedagogy-Aware Model-Driven Engineering Approach for AI Literacy](https://doi.org/10.5283/epub.80661). In: MODELS Companion ’26: Int. Conf. on Model Driven Engineering Languages and Systems, ACM, Oct. 2026. DOI: 10.1145/3837062.3838920
 
